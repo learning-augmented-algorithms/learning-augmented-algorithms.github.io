@@ -7,7 +7,6 @@ _site/
 ### Bundler ###
 .bundle/
 vendor/bundle/
-Gemfile.lock
 
 ### Python ###
 __pycache__/
