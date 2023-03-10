@@ -39,7 +39,7 @@ GEM
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
     jekyll-sass-converter (3.0.0)
-      sass-embedded (~> 1.54)
+      sass-embedded (1.57.1)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
