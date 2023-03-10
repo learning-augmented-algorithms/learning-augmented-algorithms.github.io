@@ -20,6 +20,8 @@ exclude:
   - REDISTRIBUTED.md
   - purgecss.config.js
 
+exclude: [vendor]
+
 # Collections and their defaults
 collections:
   talks:
