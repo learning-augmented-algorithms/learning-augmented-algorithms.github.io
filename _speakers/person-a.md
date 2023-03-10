@@ -1,7 +1,7 @@
 ---
-name: Tolga Philip
+name: Tolga Phillip
 first_name: Tolga
-last_name: Philip
+last_name: Phillip
 links:
   - name: Profile
     absolute_url: https://github.com
