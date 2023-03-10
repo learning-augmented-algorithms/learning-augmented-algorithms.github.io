@@ -59,6 +59,9 @@ jobs:
       - name: Compress JavaScript with Terser
         run: |
           terser _site/assets/js/main.js --compress ecma=2015,top_retain=window.conference --mangle --comments false --output _site/assets/js/main.js
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v1
 #       - name: Package generated website
 #         run: |
 #           cd _site/
