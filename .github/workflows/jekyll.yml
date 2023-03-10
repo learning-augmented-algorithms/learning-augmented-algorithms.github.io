@@ -3,7 +3,13 @@ on:
    push:
      branches: ["main"]
 
-name: Generate Website and add as Release
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+name: Generate Website and Deploy
 # Performs the following steps:
 #   - Install all dependencies (and caches them for future runs)
 #   - Builds the website
@@ -13,7 +19,7 @@ name: Generate Website and add as Release
 #   - Attaches the package to the release
 jobs:
   build:
-    name: Generate Website and add as Release
+    name: Generate Website
     runs-on: ubuntu-latest
     steps:
 
