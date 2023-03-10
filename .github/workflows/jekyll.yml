@@ -1,8 +1,7 @@
-# Gets triggered upon the creation of a new tag
 on:
-  push:
-    tags:
-    - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
+   # Runs on pushes targeting the default branch
+   push:
+     branches: ["main"]
 
 name: Generate Website and add as Release
 # Performs the following steps:
@@ -59,16 +58,16 @@ jobs:
           cd _site/
           zip -r ../website.zip *
           cd ../
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
+#       - name: Create Release
+#         id: create_release
+#         uses: actions/create-release@v1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           tag_name: ${{ github.ref }}
+#           release_name: Release ${{ github.ref }}
+#           draft: false
+#           prerelease: false
 
       - name: Upload zipped Website as Release Asset
         uses: actions/upload-release-asset@v1
