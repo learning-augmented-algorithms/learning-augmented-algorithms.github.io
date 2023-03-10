@@ -1,9 +1,9 @@
-title: ACM Workshop on Society, Climate, and Sustainability (SIGEnegy WeCan)
+title: "Learning-augmented Algorithms: Theory and Applications (LATA)"
 preposition: at
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+  Workshop on Learning-augmented Algorithms: Theory and Applications, SIGMETRICS 2023
+baseurl: "/"
+url: "https://learning-augmented-algorithms.github.io" # the base hostname & protocol for your site
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
@@ -67,6 +67,8 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
+      - name: Call for Posters
+        relative_url: /cfp/
       - name: Program
         relative_url: /program/
       - name: Talks
@@ -107,16 +109,16 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
+    - title: Call for Posters
       color: primary
       main_only: true
       text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+        We invite two types of poster submissions. First, we invite submissions presenting new ideas, work in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to [Algorithms with Predictions](https://algorithms-with-predictions.github.io) to present their work as a poster. 
 
         ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
+        Please see the [Call for Posters](cfp/) for more information and important dates!
+    - text: Call for Posters alert.
       color: warning
       pages_only: true
 
