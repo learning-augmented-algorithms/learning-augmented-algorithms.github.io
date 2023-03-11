@@ -1,10 +1,8 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Talk 2
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - TBA
 categories:
-  - Cat A
   - Talk
 hide: true
 ---

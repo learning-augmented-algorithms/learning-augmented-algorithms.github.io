@@ -1,9 +1,9 @@
 ---
-name: Talk 4
+name: Closing Remarks
 speakers:
-  - TBA
+  - Organizers
 categories:
-  - Talk
+  - Remarks
 hide: true
 ---
 

@@ -5,7 +5,7 @@ window.conference.map = (() => {
     let map;
 
     const setup = (elId) => {
-        map = L.map(elId).setView(config.home_coord, config.default_zoom);
+        map = L.map(elId).setView([28.360176, -81.510195], 16);
 
         L.tileLayer.provider(config.map_provider).addTo(map);
 
@@ -18,6 +18,14 @@ window.conference.map = (() => {
             strings: {
                 title: lang.focus_me
             }
+        }).addTo(map);
+
+        let main = L.marker([28.360176, -81.510195], {
+            icon: L.divIcon({
+                className: '',
+                html: '<span class="fas fa-train"></span> ACM FCRC 2023',
+                iconSize: [120, 56]
+            })
         }).addTo(map);
     };
 

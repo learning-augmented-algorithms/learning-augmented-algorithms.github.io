@@ -1,8 +1,7 @@
 title: "Learning-augmented Algorithms: Theory and Applications (LATA)"
 preposition: at
-description: >-
-  Workshop on Learning-augmented Algorithms: Theory and Applications, SIGMETRICS 2023
-baseurl: "/"
+description: "Workshop on Learning-augmented Algorithms: Theory and Applications, [ACM SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/)"
+baseurl: ""
 url: "https://learning-augmented-algorithms.github.io" # the base hostname & protocol for your site
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
@@ -53,6 +52,11 @@ defaults:
 
 
 conference:
+  map:
+  # Initial map center point
+  home_coord: 28.360176, -81.510195
+  map_provider: "OpenStreetMap.Mapnik"
+  default_zoom: 9
 
   # Language
   lang: en
@@ -71,12 +75,15 @@ conference:
         relative_url: /cfp/
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+      # - name: Committee
+      #   relative_url: /committee/
+      - name: Registration
+        disabled: true
+        absolute-url: "https://www.sigmetrics.org/sigmetrics2023/"
+      # - name: Talks
+      #   relative_url: /talks/
+      # - name: Speakers
+      #   relative_url: /speakers/
       # - name: Previous Editions
       #   menu:
       #     - name: 2020 (current)
@@ -91,21 +98,21 @@ conference:
     # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
     img:
-      twitter: 'twitter_preview.png'      # inside /assets/images/
-      open_graph: 'facebook_preview.png'  # inside /assets/images/
+      twitter: 'splash.png'      # inside /assets/images/
+      open_graph: 'splash.png'  # inside /assets/images/
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+    logo:
+      img: 'splash.png'
     links:
-      - name: Program
+      - name: Call for Posters
+        relative_url: /cfp/
+      - name: Tentative Program
         relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
+      - name: Registration
         disabled: true
-        absolute_url: ''
+        absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/'
 
   # Information boxes
   info_bars:
@@ -117,10 +124,10 @@ conference:
 
         ---
 
-        Please see the [Call for Posters](cfp/) for more information and important dates!
-    - text: Call for Posters alert.
-      color: warning
-      pages_only: true
+        Submissions are due by **April 10th, 2023.**  *Please see the [Call for Posters](cfp/) page for more information and important dates!*
+    # - text: Call for Posters alert.
+    #   color: warning
+    #   pages_only: true
 
   # Live indications
   live:
@@ -137,24 +144,15 @@ conference:
       duration: 300  # in seconds
       pause:     10  # in seconds
 
-  map:
-    # Initial map center point
-    home_coord: 47.37808, 8.53935
-    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-    # The following do match the Bootstrap design not too badly:
-    #   - Hydda.Full
-    #   - Thunderforest.Neighbourhood
-    #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 17
-
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
+      - name: Talk
         color: success
+      - name: Poster
+        color: info
+      - name: Remarks
+        color: warning
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -165,7 +163,7 @@ conference:
 
   location:
     # Disable links to locations
-    hide: false
+    hide: true
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
@@ -178,7 +176,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 5 # in minutes
 
     # Show intermediary time steps (next to full hours)
-    show_alltimes: true
+    show_alltimes: false

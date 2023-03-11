@@ -1,9 +1,9 @@
 ---
-name: Talk 4
+name: Opening Remarks
 speakers:
-  - TBA
+  - Organizers
 categories:
-  - Talk
+  - Remarks
 hide: true
 ---
 
