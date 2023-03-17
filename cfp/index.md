@@ -27,7 +27,7 @@ Notification of poster acceptance: **April 17th, 2023**
 
   
 
-Submission site: **[HotCRP](learning-augmented-algorithms.github.io)**
+Submission site: **[HotCRP](https://sigmetrics23-lata-posters.hotcrp.com)**
 
   
 <br>
