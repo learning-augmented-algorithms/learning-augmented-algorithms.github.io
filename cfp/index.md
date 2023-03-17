@@ -53,8 +53,14 @@ Contact [kamalis@yorku.ca](mailto:kamalis@yorku.ca) with any questions.
 
 - Pengfei Li (UC Riverside): pli081@ucr.edu
 - Jianyi Yang: (UC Riverside):  jyang239@ucr.edu
+- Zaiwei Chen (Caltech): zchen458@caltech.edu
 - Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu
+- Nico Christianson (Caltech): nchristianson@caltech.edu
 - Cooper Sigrist (UMass Amherst): csigrist@umass.edu
+- Tinashe Handina (Caltech): thandina@caltech.edu
 - Bo Sun (CUHK): bsun@cse.cuhk.edu.hk
+- Yiheng Lin (Caltech): yihengl@caltech.edu
 - Adam Lechowicz (UMass Amherst): alechowicz@cs.umass.edu
+- Jing Yu (Caltech): jing@caltech.edu
+- Russell Lee (UMass Amherst): rclee@cs.umass.edu
 
