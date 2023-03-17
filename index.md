@@ -41,7 +41,3 @@ This area has blossomed in recent years, both in terms of foundational theoretic
     
 -   Adam Wierman, Caltech, [adamw@caltech.edu](mailto:adamw@caltech.edu)
     
-
-  
-
-**Student Organizers:** Adam Lechowicz (UMass Amherst), Nicolas Christianson (Caltech), Jianyi Yang (UC Riverside), Georgii Melidi (Sorbonne)
