@@ -43,10 +43,18 @@ The submission should consist of a single pdf file containing the names and affi
 
   
 
-**Review process:** Submitted posters will be reviewed within the period from *April 17th* to *April 24th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
-
-  
-
+**Review process:** Submitted posters will be reviewed within the period from *April 10th* to *April 17th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
   
 
 Contact [kamalis@yorku.ca](mailto:kamalis@yorku.ca) with any questions.
+
+
+##  Program Committee:
+
+- Pengfei Li (UC Riverside): pli081@ucr.edu
+- Jianyi Yang: (UC Riverside):  jyang239@ucr.edu
+- Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu
+- Cooper Sigrist (UMass Amherst): csigrist@umass.edu
+- Bo Sun (CUHK): bsun@cse.cuhk.edu.hk
+- Adam Lechowicz (UMass Amherst): alechowicz@cs.umass.edu
+
