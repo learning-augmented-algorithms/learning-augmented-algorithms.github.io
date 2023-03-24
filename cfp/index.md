@@ -44,23 +44,20 @@ The submission should consist of a single pdf file containing the names and affi
   
 
 **Review process:** Submitted posters will be reviewed within the period from *April 10th* to *April 17th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
-  
-
-Contact [kamalis@yorku.ca](mailto:kamalis@yorku.ca) with any questions.
 
 
 ##  Program Committee:
 
-- Pengfei Li (UC Riverside): pli081@ucr.edu
-- Jianyi Yang: (UC Riverside):  jyang239@ucr.edu
 - Zaiwei Chen (Caltech): zchen458@caltech.edu
-- Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu
 - Nico Christianson (Caltech): nchristianson@caltech.edu
-- Cooper Sigrist (UMass Amherst): csigrist@umass.edu
 - Tinashe Handina (Caltech): thandina@caltech.edu
-- Bo Sun (CUHK): bsun@cse.cuhk.edu.hk
-- Yiheng Lin (Caltech): yihengl@caltech.edu
 - Adam Lechowicz (UMass Amherst): alechowicz@cs.umass.edu
-- Jing Yu (Caltech): jing@caltech.edu
 - Russell Lee (UMass Amherst): rclee@cs.umass.edu
-
+- Pengfei Li (UC Riverside): pli081@ucr.edu
+- Yiheng Lin (Caltech): yihengl@caltech.edu
+- Georgii Melidi (CNRS and Sorbonne University): georgii.melidi@lip6.fr
+- Cooper Sigrist (UMass Amherst): csigrist@umass.edu
+- Bo Sun (CUHK): bsun@cse.cuhk.edu.hk
+- Jianyi Yang: (UC Riverside):  jyang239@ucr.edu
+- Jing Yu (Caltech): jing@caltech.edu
+- Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu
