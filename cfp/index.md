@@ -50,6 +50,7 @@ The submission should consist of a single pdf file containing the names and affi
 
 - Zaiwei Chen (Caltech): zchen458@caltech.edu
 - Nico Christianson (Caltech): nchristianson@caltech.edu
+- Lauren Conger (Caltech): lconger@caltech.edu
 - Tinashe Handina (Caltech): thandina@caltech.edu
 - Adam Lechowicz (UMass Amherst): alechowicz@cs.umass.edu
 - Russell Lee (UMass Amherst): rclee@cs.umass.edu
