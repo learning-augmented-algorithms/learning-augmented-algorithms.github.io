@@ -1,7 +1,7 @@
 days:
 - name: Monday
   abbr: Mo
-  date: 2020-01-31
+  date: 2023-06-19
   rooms:
   - name: Main Workshop
     talks:

@@ -25,6 +25,10 @@ Submission deadline: **April 10th, 2023**
 
 Notification of poster acceptance: **April 17th, 2023**
 
+
+
+Workshop: **June 19th, 2023**
+
   
 
 Submission site: **[HotCRP](https://sigmetrics23-lata-posters.hotcrp.com)**
