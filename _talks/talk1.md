@@ -1,7 +1,7 @@
 ---
 name: Talk 1
 speakers:
-  - TBA
+  - Maria-Florina Balcan
 categories:
   - Talk
 hide: true

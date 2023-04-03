@@ -1,7 +1,7 @@
 ---
 name: Talk 2
 speakers:
-  - TBA
+  - Ziv Scully
 categories:
   - Talk
 hide: true

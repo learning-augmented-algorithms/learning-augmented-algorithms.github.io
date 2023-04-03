@@ -1,7 +1,7 @@
 ---
 name: Talk 3
 speakers:
-  - TBA
+  - Manish Purohit
 categories:
   - Talk
 links:

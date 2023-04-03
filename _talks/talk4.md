@@ -1,7 +1,7 @@
 ---
 name: Talk 4
 speakers:
-  - TBA
+  - Adam Polak
 categories:
   - Talk
 hide: true

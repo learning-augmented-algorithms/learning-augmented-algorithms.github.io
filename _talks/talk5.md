@@ -1,7 +1,7 @@
 ---
 name: Talk 5
 speakers:
-  - TBA
+  - Yossi Azar
 categories:
   - Talk
 hide: true
