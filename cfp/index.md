@@ -9,7 +9,7 @@ title: Call for Posters
 
   
 
-Posters provide a platform for discussing works in progress, new research directions, and challenges related to learning-augmented algorithms. We solicit two types of posters. First, we invite poster submissions that present new ideas, work in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to Algorithms with Predictions to present their work as a poster.
+Posters provide a platform for discussing works in progress, new research directions, and challenges related to learning-augmented algorithms. We solicit two types of posters. First, we invite poster submissions that present new ideas, work in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to Algorithms with Predictions to present their work as a poster.  Two-page abstracts of accepted posters will be posted on the workshop's webpage.
 
   
 <br>
@@ -19,11 +19,11 @@ Posters provide a platform for discussing works in progress, new research direct
 
   
 
-Submission deadline: **April 10th, 2023**
+Submission deadline: **May 1st, 2023**
 
   
 
-Notification of poster acceptance: **April 17th, 2023**
+Notification of poster acceptance: **May 8th, 2023**
 
 
 
