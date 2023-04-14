@@ -47,7 +47,7 @@ The submission should consist of a single pdf file containing the names and affi
 
   
 
-**Review process:** Submitted posters will be reviewed within the period from *April 10th* to *April 17th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
+**Review process:** Submitted posters will be reviewed within the period from *May 1st* to *May 8th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
 
 
 ##  Program Committee:
