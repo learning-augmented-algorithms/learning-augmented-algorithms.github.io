@@ -1,5 +1,5 @@
 ---
-name: Talk 4
+name: "Learning-augmented dynamic algorithms: going beyond fine-grained lower bounds using predictions"
 speakers:
   - Adam Polak
 categories:
@@ -7,6 +7,8 @@ categories:
 hide: true
 ---
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
+Dynamic algorithms maintain a solution to a computational problem on a constantly changing input data, without recomputing from scratch after every update. One of the difficulties that dynamic algorithms need to deal with is the fact that future updates are unknown. Given all the recent advances in learning-augmented algorithms, can we use black-box predictors – giving us some approximate knowledge about the yet unseen part of the updates sequence – to speed up dynamic algorithms?
 
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
+In this talk I will discuss what fine-grained conditional lower bounds tell us about possibilities of such speedups. I will then give one example of a learning-augmented dynamic algorithm, specifically for the transitive closure problem.
+
+The talk is based on a joint paper with Jan van den Brand, Sebastian Forster, and Yasamin Nazari.

@@ -1,5 +1,5 @@
 ---
-name: Talk 5
+name: Flow Time Scheduling with Uncertain Processing Time
 speakers:
   - Yossi Azar
 categories:
@@ -7,6 +7,5 @@ categories:
 hide: true
 ---
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
-
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
+We consider the problem of online scheduling to minimize unweighted and weighted flow time. The existing algorithms for these problems require exact knowledge of the processing time of each job. This assumption is crucial for them but very rarely holds in real-life scenarios. We present competitive algorithms (the competitive ratio is a function of the distortion) for unweighted flow time that do not require knowledge of the distortion in advance. For the weighted flow time we present competitive algorithms but, in this case, we need to know (an upper bound on) the distortion in advance.
+This is joint work with Stefano Leonardi, Eldad Peretz and Noam Touitou based on papers that appeared in STOC 21, SODA 2022 and ISAAC 2022.
