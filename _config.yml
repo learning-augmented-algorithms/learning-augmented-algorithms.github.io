@@ -75,10 +75,8 @@ conference:
         relative_url: /cfp/
       - name: Program
         relative_url: /program/
-      # - name: Committee
-      #   relative_url: /committee/
       - name: Registration
-        absolute-url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
+        relative_url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
