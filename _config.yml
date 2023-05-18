@@ -78,8 +78,7 @@ conference:
       # - name: Committee
       #   relative_url: /committee/
       - name: Registration
-        disabled: true
-        absolute-url: "https://www.sigmetrics.org/sigmetrics2023/"
+        absolute-url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
@@ -108,11 +107,10 @@ conference:
     links:
       - name: Call for Posters
         relative_url: /cfp/
-      - name: Tentative Program
+      - name: Program
         relative_url: /program/
       - name: Registration
-        disabled: true
-        absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/'
+        absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/registration.html'
 
   # Information boxes
   info_bars:
