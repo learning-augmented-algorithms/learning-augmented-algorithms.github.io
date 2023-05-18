@@ -4,7 +4,6 @@ speakers:
   - Adam Polak
 categories:
   - Talk
-hide: true
 ---
 
 Dynamic algorithms maintain a solution to a computational problem on a constantly changing input data, without recomputing from scratch after every update. One of the difficulties that dynamic algorithms need to deal with is the fact that future updates are unknown. Given all the recent advances in learning-augmented algorithms, can we use black-box predictors – giving us some approximate knowledge about the yet unseen part of the updates sequence – to speed up dynamic algorithms?
