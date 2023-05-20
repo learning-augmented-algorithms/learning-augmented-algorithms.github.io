@@ -1,7 +1,7 @@
 ---
 name: Poster Authors 
 first_name: 
-last_name: TBA
+last_name: Poster Authors
 links:
   - name: Profile
     absolute_url: https://github.com
