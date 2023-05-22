@@ -1,18 +1,15 @@
 ---
-name: Talk 3
+name: Linear Bandits with Hints and Queries
 speakers:
   - Manish Purohit
 categories:
   - Talk
-links:
-  - name: Recording
-    icon: video
-    absolute_url: https://media.ccc.de/
-  - name: Wikipedia
-    absolute_url: https://en.wikipedia.org
-hide: true
+# links:
+  # - name: Recording
+  #   icon: video
+  #   absolute_url: https://media.ccc.de/
+  # - name: Wikipedia
+  #   absolute_url: https://en.wikipedia.org
 ---
 
-Duis at tellus at urna condimentum mattis pellentesque id nibh. In fermentum et sollicitudin ac orci phasellus egestas. Convallis aenean et tortor at risus viverra. Mus mauris vitae ultricies leo integer. Metus dictum at tempor commodo ullamcorper. Sem nulla pharetra diam sit. Eu lobortis elementum nibh tellus molestie nunc.
-
-Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Tellus at urna condimentum mattis. Suspendisse sed nisi lacus sed viverra tellus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nunc eget lorem dolor sed viverra. Id volutpat lacus laoreet non curabitur.
+In the classical online linear optimization problem, receiving a "hint" regarding the upcoming cost vector has been shown to lead to significantly improved regret guarantees. In the full-information setting, there are algorithms that can exploit such good hints to obtain regret that grows only logarithmically with the number of time steps, while at the same time guaranteeing worst-case robustness even when the hints are non-informative. Unfortunately, in the bandit setting, we show that such hints are not sufficient  to obtain better than $\tilde O(\sqrt{T})$ regret even if each hint is guaranteed to be well-correlated with the cost vector. In this talk, I'll present a new model of advice where the algorithm can actively query the upcoming cost function and design an algorithm that attains logarithmic regret in this model. Additionally, when the algorithm receives feedback regarding the quality of the hints, we also obtain optimal robustness guarantees.
