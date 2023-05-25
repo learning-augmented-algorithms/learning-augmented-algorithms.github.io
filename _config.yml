@@ -71,8 +71,10 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
+      # - name: Call for Posters
+      #   relative_url: /cfp/
+      - name: Accepted Posters
+        relative_url: /talks/poster/
       - name: Program
         relative_url: /program/
       - name: Registration
@@ -103,24 +105,26 @@ conference:
     logo:
       img: 'splash.png'
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
+      # - name: Call for Posters
+      #   relative_url: /cfp/
+      - name: Accepted Posters
+        relative_url: /talks/poster/
       - name: Program
         relative_url: /program/
       - name: Registration
         absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/registration.html'
 
   # Information boxes
-  info_bars:
-    - title: Call for Posters
-      color: primary
-      main_only: true
-      text: |
-        We invite two types of poster submissions. First, we invite submissions presenting new ideas, work in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to [Algorithms with Predictions](https://algorithms-with-predictions.github.io) to present their work as a poster. 
+  # info_bars:
+  #   - title: Call for Posters
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       We invite two types of poster submissions. First, we invite submissions presenting new ideas, work in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to [Algorithms with Predictions](https://algorithms-with-predictions.github.io) to present their work as a poster. 
 
-        ---
+  #       ---
 
-        Submissions are due by **May 1st, 2023.**  *Please see the [Call for Posters](cfp/) page for more information and important dates!*
+  #       Submissions are due by **May 1st, 2023.**  *Please see the [Call for Posters](cfp/) page for more information and important dates!*
     # - text: Call for Posters alert.
     #   color: warning
     #   pages_only: true
