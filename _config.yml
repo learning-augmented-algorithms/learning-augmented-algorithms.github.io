@@ -163,7 +163,7 @@ conference:
 
   location:
     # Disable links to locations
-    hide: true
+    hide: false
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
