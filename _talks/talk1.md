@@ -1,5 +1,5 @@
 ---
-name: "Machine learning for algorithm design with provable guarantees"
+name: Machine learning for algorithm design with provable guarantees
 speakers:
   - Maria-Florina Balcan
 categories:
