@@ -2,8 +2,8 @@ days:
 - name: Monday
   abbr: Mo
   date: 2023-06-19
-  rooms: Magnolia 17
-  - name: Main Workshop
+  rooms:
+  - name: Main Workshop in Magnolia 17
     talks:
       - name: Opening Remarks
         time_start: '8:00'

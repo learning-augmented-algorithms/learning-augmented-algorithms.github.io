@@ -1,6 +1,5 @@
 ---
-name: Main Workshop
-hide: true
+name: Main Workshop in Magnolia 17
 ---
 
-A short way description on how to find the room
+[Map of Marriott Orlando World Center Convention Floor](https://www.qpendium.com/presentation/baseline/244/?6#6)
