@@ -4,7 +4,6 @@ speakers:
   - Maria-Florina Balcan
 categories:
   - Talk
-hide: true
 ---
 
 The classic analysis framework for algorithm design is centered around worst-case guarantees. While highly desirable when achievable, these guarantees are often too weak for many algorithmic problems. To address this issue, in recent years, machine learning components have been brought into algorithm design. A major question is what provable guarantees do these learning augmented algorithmic techniques enjoy. In this talk, I will describe general analysis techniques we developed for two important related settings.
