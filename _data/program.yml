@@ -8,10 +8,10 @@ days:
       - name: Opening Remarks
         time_start: '8:00'
         time_end: '8:05'
-      - name: Machine learning for algorithm design with provable guarantees
+      - name: Uniform Bounds for Scheduling with Job Size Estimates
         time_start: '8:05'
         time_end: '8:40'
-      - name: Uniform Bounds for Scheduling with Job Size Estimates
+      - name: Machine learning for algorithm design with provable guarantees
         time_start: '8:40'
         time_end: '9:15'
       - name: Linear Bandits with Hints and Queries
