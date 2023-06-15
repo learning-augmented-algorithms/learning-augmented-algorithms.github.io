@@ -55,19 +55,19 @@ Adam Lechowicz  (University of Massachusetts Amherst), Rik Sengupta  (University
 
 &nbsp;  
 
-#### [Competitive Online Optimization with Multiple Inventories: A Divide-and-Conquer Approach](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper9.pdf)
+#### [Competitive Online Optimization with Multiple Inventories: A Divide-and-Conquer Approach](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper11.pdf)
 
 Qiulin Lin  (City University of Hong Kong), Yanfang Mo (City University of Hong Kong), Junyan Su  (City University of Hong Kong), Minghua Chen  (City University of Hong Kong)
 
 &nbsp;  
 
-#### [Online Algorithms with Better-Than-Random Predictions](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper10.pdf)
+#### [Online Algorithms with Better-Than-Random Predictions](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper9.pdf)
 
 Cooper Sigrist  (University of Massachusetts Amherst), Shahin Kamali  (York University), Bo Sun  (The Chinese University of Hong Kong), Mohammad Hajiesmaili  (University of Massachusetts Amherst)
 
 &nbsp;  
 
-#### [Optimal robustness-consistency tradeoffs for learning-augmented metrical task systems](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper11.pdf)
+#### [Optimal robustness-consistency tradeoffs for learning-augmented metrical task systems](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper10.pdf)
 
 Nicolas Christianson  (California Institute of Technology), Junxuan Shen  (California Institute of Technology), Adam Wierman  (California Institute of Technology)
 
