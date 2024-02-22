@@ -71,14 +71,15 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
-      # - name: Call for Posters
-      #   relative_url: /cfp/
-      - name: Accepted Posters
-        relative_url: /talks/poster/
+      - name: Call for Posters
+        relative_url: /cfp/
+      # - name: Accepted Posters
+      #   relative_url: /talks/poster/
       - name: Program
         relative_url: /program/
-      - name: Registration
-        relative_url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
+      - name: Register
+        disabled: true
+        # relative_url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
