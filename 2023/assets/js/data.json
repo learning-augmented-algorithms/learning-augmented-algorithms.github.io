@@ -13,11 +13,11 @@
     "speakers": {
         "Yossi Azar" : {
             "name": "Yossi Azar",
-            "href": "/speakers/azar/"
+            "href": "/2023/speakers/azar/"
         },
         "Maria-Florina Balcan" : {
             "name": "Maria-Florina Balcan",
-            "href": "/speakers/balcan/"
+            "href": "/2023/speakers/balcan/"
         },
         "Poster Authors" : {
             "name": " Poster Authors",
@@ -29,15 +29,15 @@
         },
         "Adam Polak" : {
             "name": "Adam Polak",
-            "href": "/speakers/polak/"
+            "href": "/2023/speakers/polak/"
         },
         "Manish Purohit" : {
             "name": "Manish Purohit",
-            "href": "/speakers/purohit/"
+            "href": "/2023/speakers/purohit/"
         },
         "Ziv Scully" : {
             "name": "Ziv Scully",
-            "href": "/speakers/scully/"
+            "href": "/2023/speakers/scully/"
         }
     },
 
