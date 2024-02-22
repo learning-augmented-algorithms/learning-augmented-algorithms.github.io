@@ -1,0 +1,46 @@
+{
+    "days": [
+        {
+            "name": "Monday",
+            "hash": "mo",
+            "date": "2023-06-19"
+        }
+    ],
+
+    "rooms": {
+    },
+
+    "speakers": {
+        "Yossi Azar" : {
+            "name": "Yossi Azar",
+            "href": "/speakers/azar/"
+        },
+        "Maria-Florina Balcan" : {
+            "name": "Maria-Florina Balcan",
+            "href": "/speakers/balcan/"
+        },
+        "Poster Authors" : {
+            "name": " Poster Authors",
+            "href": ""
+        },
+        "Organizers" : {
+            "name": " Organizers",
+            "href": ""
+        },
+        "Adam Polak" : {
+            "name": "Adam Polak",
+            "href": "/speakers/polak/"
+        },
+        "Manish Purohit" : {
+            "name": "Manish Purohit",
+            "href": "/speakers/purohit/"
+        },
+        "Ziv Scully" : {
+            "name": "Ziv Scully",
+            "href": "/speakers/scully/"
+        }
+    },
+
+    "talks": {
+    }
+}
