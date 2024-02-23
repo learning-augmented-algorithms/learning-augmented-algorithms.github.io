@@ -39,8 +39,6 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 
 -   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca)
 
-<br>
-
 #### **Steering Committee:**
 
 -   Adam Wierman, Caltech, [adamw@caltech.edu](mailto:adamw@caltech.edu)
