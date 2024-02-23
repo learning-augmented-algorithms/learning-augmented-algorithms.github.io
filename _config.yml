@@ -75,10 +75,10 @@ conference:
         relative_url: /cfp/
       # - name: Accepted Posters
       #   relative_url: /talks/poster/
-      - name: Program
-        relative_url: /program/
-      - name: Register
-        disabled: true
+      # - name: Program
+      #   relative_url: /program/
+      # - name: Register
+      #   disabled: true
         # relative_url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
       # - name: Talks
       #   relative_url: /talks/
@@ -96,22 +96,22 @@ conference:
     # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
     img:
-      twitter: 'splash.png'      # inside /assets/images/
-      open_graph: 'splash.png'  # inside /assets/images/
+      twitter: 'splash_2024.jpg'      # inside /assets/images/
+      open_graph: 'splash_2024.jpg'  # inside /assets/images/
 
   # Main landing page
   main:
     logo:
-      img: 'splash.png'
+      img: 'splash_2024.jpg'
     links:
-      # - name: Call for Posters
-      #   relative_url: /cfp/
-      - name: Accepted Posters
-        relative_url: /talks/poster/
-      - name: Program
-        relative_url: /program/
-      - name: Registration
-        absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/registration.html'
+      - name: Call for Posters
+        relative_url: /cfp/
+      # - name: Accepted Posters
+      #   relative_url: /talks/poster/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: Registration
+      #   absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/registration.html'
 
   # Information boxes
   # info_bars:

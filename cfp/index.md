@@ -19,19 +19,19 @@ Posters provide a platform for discussing works in progress, new research direct
 
   
 
-Submission deadline: **May 1st, 2023**
+Submission deadline: **April 26, 2024**
 
   
 
-Notification of poster acceptance: **May 8th, 2023**
+Notification of poster acceptance: **May 10th, 2024**
 
 
 
-Workshop: **June 19th, 2023**
+Workshop: **June 14th, 2024**
 
   
 
-Submission site: **[HotCRP](https://sigmetrics23-lata-posters.hotcrp.com)**
+Submission site: **Coming soon!**
 
   
 <br>
@@ -47,12 +47,14 @@ The submission should consist of a single pdf file containing the names and affi
 
   
 
-**Review process:** Submitted posters will be reviewed within the period from *May 1st* to *May 8th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
+**Review process:** Submitted posters will be reviewed within the period from *April 26th* to *May 10th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
 
 
 ##  Program Committee:
 
-- Zaiwei Chen (Caltech): zchen458@caltech.edu
+To be announced.
+
+<!-- - Zaiwei Chen (Caltech): zchen458@caltech.edu
 - Nico Christianson (Caltech): nchristianson@caltech.edu
 - Lauren Conger (Caltech): lconger@caltech.edu
 - Tinashe Handina (Caltech): thandina@caltech.edu
@@ -65,4 +67,4 @@ The submission should consist of a single pdf file containing the names and affi
 - Bo Sun (CUHK): bsun@cse.cuhk.edu.hk
 - Jianyi Yang: (UC Riverside):  jyang239@ucr.edu
 - Jing Yu (Caltech): jing@caltech.edu
-- Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu
+- Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu -->
