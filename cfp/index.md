@@ -9,7 +9,7 @@ title: Call for Posters
 
   
 
-Posters provide a platform for discussing works in progress, new research directions, and challenges related to learning-augmented algorithms. We solicit two types of posters. First, we invite poster submissions that present new ideas, work in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to Algorithms with Predictions to present their work as a poster.  Two-page abstracts of accepted posters will be posted on the workshop's webpage.
+Posters provide a platform for discussing works in progress, new research directions, and challenges related to learning-augmented algorithms. Topics include, but are not limited to, theoretical work on the design and analysis of such algorithms with provable performance guarantees, as well as emerging applications that evaluate the real-world impact of algorithms with predictions on various systems or problems. We solicit two types of posters. First, we invite poster submissions that present new ideas, works in progress, ongoing research directions, and preliminary results. Second, we invite authors of recently published papers on topics related to algorithms with predictions to present their work as a poster. Two-page abstracts of accepted posters will be posted on the workshop's webpage.
 
   
 <br>
@@ -31,7 +31,7 @@ Workshop: **June 14th, 2024**
 
   
 
-Submission site: **Coming soon!**
+Submission site: **[https://sigmetrics24-lata-posters.hotcrp.com/](https://sigmetrics24-lata-posters.hotcrp.com/)**
 
   
 <br>
@@ -39,15 +39,10 @@ Submission site: **Coming soon!**
 
 ##  Submission Requirements and Guidelines:
 
+Submissions should consist of a 2-page abstract (not including references) using the [ACM small template format](https://www.acm.org/publications/proceedings-template). The submission should include the names and affiliations of the contributors, a title, a brief abstract, and a summary of the contributions; preliminary results may also be included. Submissions must be in PDF format. In case the poster presents results of the recently-published papers, bibliographic references to the paper (authors, title, and venue) must be included.
   
 
-The submission should consist of a single pdf file containing the names and affiliations of the contributors, a title, a brief abstract, and a summary of the contributions. Preliminary results may also be included. In case the poster presents results of the recently-published papers, bibliographic references to the paper (authors, title, and venue) must be included. Poster abstracts must not be more than two pages, including references and figures, in the [ACM small template format](https://www.acm.org/publications/proceedings-template).
-
-  
-
-  
-
-**Review process:** Submitted posters will be reviewed within the period from *April 26th* to *May 10th*. The review will be minimal and focus primarily on relevance to the workshop focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during the workshop breaks.
+**Review process:** Submitted posters will be reviewed between *April 26th* to *May 10th*. The review will be minimal and focus primarily on relevance to the workshop's focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during breaks.
 
 
 ##  Program Committee:
