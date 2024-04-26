@@ -19,7 +19,7 @@ Posters provide a platform for discussing works in progress, new research direct
 
   
 
-Submission deadline: **April 26, 2024**
+Submission deadline: **Extended to May 3rd, 2024, Anywhere on Earth (AoE)**
 
   
 
@@ -42,12 +42,12 @@ Submission site: **[https://sigmetrics24-lata-posters.hotcrp.com/](https://sigme
 Submissions should consist of a 2-page abstract (not including references) using the [ACM small template format](https://www.acm.org/publications/proceedings-template). The submission should include the names and affiliations of the contributors, a title, a brief abstract, and a summary of the contributions; preliminary results may also be included. Submissions must be in PDF format. In case the poster presents results of the recently-published papers, bibliographic references to the paper (authors, title, and venue) must be included.
   
 
-**Review process:** Submitted posters will be reviewed between *April 26th* to *May 10th*. The review will be minimal and focus primarily on relevance to the workshop's focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during breaks.
+**Review process:** Submitted posters will be reviewed between *May 3rd* and *May 10th*. The review will be minimal and focus primarily on relevance to the workshop's focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during breaks.
 
 
-##  Program Committee:
+<!-- ##  Program Committee:
 
-To be announced.
+To be announced. -->
 
 <!-- - Zaiwei Chen (Caltech): zchen458@caltech.edu
 - Nico Christianson (Caltech): nchristianson@caltech.edu
