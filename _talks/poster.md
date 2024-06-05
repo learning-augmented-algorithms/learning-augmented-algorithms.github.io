@@ -1,5 +1,5 @@
 ---
-name: Poster Session and Break
+name: Short Poster Talks (5 minutes each)
 speakers:
   - Poster Authors
 categories:
@@ -7,102 +7,48 @@ categories:
 hide: false
 ---
 
-#### [Towards a Learning-Only Approach for Non-Convex Sum-Rate Maximization](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper1.pdf)
+#### Information Design with Predictions
 
-Qingyu Song  (The Chinese University of Hong Kong), Guochen Liu  (Huawei Technologies Co., Ltd.), Hong Xu  (The Chinese University of Hong Kong)
-
-&nbsp;  
-
-#### [Learning-Augmented Mechanism Design: Leveraging Predictions for Facility Location](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper2.pdf)
-
-Priyank Agrawal  (Columbia University), Eric Balkanski  (Columbia University), Vasilis Gkatzelis  (Drexel University), Tingting Ou  (Columbia University), Xizhi Tan  (Drexel University) 
+Keegan Harris (CMU), Steven Wu (CMU), Nina Balcan (CMU)
 
 &nbsp;  
 
-#### [Robust Load Balancing with Machine Learned Advice](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper3.pdf)
+#### Online bipartite matching with imperfect advice
 
-Binghui Peng  (Columbia University), Sara Ahmadian  (Google Research), Hossein Esfandiari  (Google), Vahab Mirrokni  (Google Research)
-
-&nbsp;  
-
-#### [Online List Update with Predictions](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper4.pdf)
-
-Arghya Bhattacharya  (Stony Brook University), Shahin Kamali  (York University), Helen Xu  (Lawrence Berkeley National Laboratory)
+Davin Choo (National University of Singapore), Themistoklis Gouleakis (National University of Singapore), Chun Kai Ling (Columbia University), Arnab Bhattacharyya (National University of Singapore)
 
 &nbsp;  
 
-#### [Learning-augmented Control via Online Adaptive Policy Selection: No Regret via Contractive Perturbations](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper5.pdf)
+#### Decentralized Scheduling with QoS Constraints: Achieving $O(1)$ QoS Regret of Multi-Player Bandits
 
-Yiheng Lin  (Caltech), James Preiss  (Caltech), Emile Anand  (Caltech), Yingying Li  (Caltech), Yisong Yue  (Caltech), Adam Wierman  (Caltech) 
-
-&nbsp;  
-
-#### [Online Algorithms with Costly Predictions](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper6.pdf)
-
-Marina Drygala  (EPFL), Sai Ganesh Nagarajan  (EPFL), Ola Svensson  (EPFL)
+Qingsong Liu (Tsinghua University), Zhixuan Fang (Tsinghua University)
 
 &nbsp;  
 
-#### [On Designing Prediction-Aware Online Algorithms for Energy Generation Scheduling in Microgrids](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper7.pdf)
+#### Chasing Convex Functions with Long-term Constraints: Optimal Consistency-Robustness Tradeoffs
 
-Ali Menati  (Texas A&M University), Sid Chi-Kin Chau  (Australian National University), Minghua Chen  (City University of Hong Kong), 
+Adam Lechowicz (UMass Amherst), Nicolas Christianson (Caltech), Bo Sun (University of Waterloo), Noman Bashir (MIT), Mohammad Hajiesmaili (UMass Amherst), Adam Wierman (Caltech), Prashant Shenoy (UMass Amherst)
+&nbsp;  
+
+#### Fast and Reliable $N - k$ Contingency Screening with Input-Convex Neural Networks
+
+Nicolas Christianson (Caltech), Wenqi Cui (University of Washington), Steven Low (Caltech), Weiwei Yang (Microsoft Research), Baosen Zhang (University of Washington)
 
 &nbsp;  
 
-#### [Fair Online Knapsack with Value Density Predictions](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper8.pdf)
+#### Online Conversion under Unknown Horizon: Beating $1 + \ln \theta$ with a Single Trusted Query
 
-Adam Lechowicz  (University of Massachusetts Amherst), Rik Sengupta  (University of Massachusetts Amherst), Bo Sun  (The Chinese University of Hong Kong), Shahin Kamali  (York University), Mohammad Hajiesmaili  (University of Massachusetts Amherst)
-
-&nbsp;  
-
-#### [Competitive Online Optimization with Multiple Inventories: A Divide-and-Conquer Approach](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper11.pdf)
-
-Qiulin Lin  (City University of Hong Kong), Yanfang Mo (City University of Hong Kong), Junyan Su  (City University of Hong Kong), Minghua Chen  (City University of Hong Kong)
+Ying Cao (HKUST), Hasti NourMohammadi (University of Alberta), Bo Sun (University of Waterloo), Xiaoqi Tan (University of Alberta), Danny H.K. Tsang (HKUST)
 
 &nbsp;  
 
-#### [Online Algorithms with Better-Than-Random Predictions](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper9.pdf)
+#### Contract Scheduling with Distributional and Multiple Advice
 
-Cooper Sigrist  (University of Massachusetts Amherst), Shahin Kamali  (York University), Bo Sun  (The Chinese University of Hong Kong), Mohammad Hajiesmaili  (University of Massachusetts Amherst)
-
-&nbsp;  
-
-#### [Optimal robustness-consistency tradeoffs for learning-augmented metrical task systems](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper10.pdf)
-
-Nicolas Christianson  (California Institute of Technology), Junxuan Shen  (California Institute of Technology), Adam Wierman  (California Institute of Technology)
+Spyros Angelopoulos (CNRS and Sorbonne University), Marcin Bienkowski (University of Wroclaw), Christoph Durr (CNRS and LIP6 - Sorbonne University), Bertrand Simon (CNRS / IN2P3 Computing Center)
 
 &nbsp;  
 
-#### [Learning-Augmented Decentralized Online Convex Optimization in Networks](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper12.pdf)
+#### Anytime-Competitive Reinforcement Learning with Policy Prior
 
-Pengfei Li  (UC Riverside), Jianyi Yang  (University of California, Riverside), Adam Wierman  (Caltech), Shaolei Ren  (UC Riverside)
+Jianyi Yang (UC Riverside), Pengfei Li (UC Riverside), Tongxin Li (CUHK Shenzhen), Adam Wierman (Caltech), Shaolei Ren (UC Riverside)
 
-&nbsp;  
-
-#### [Applied Learning-Augmented Algorithms with Heterogeneous Predictors](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper13.pdf)
-
-Jessica Maghakian  (Stony Brook University), Russell Lee  (University of Massachusetts Amherst), Mohammad Hajiesmaili  (University of Massachusetts Amherst), Jian Li  (SUNY-Binghamton University), Ramesh Sitaraman  (UMass Amherst & Akamai Tech), Zhenhua Liu  (Stony Brook University)
-
-&nbsp;  
-
-#### [Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper14.pdf)
-
-Pengfei Li  (UC Riverside), Jianyi Yang  (UC Riverside), Shaolei Ren (UC Riverside)
-
-&nbsp;  
-
-#### [Partitioned Learned Count-Min Sketch](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper15.pdf)
-
-Thuy Trang Nguyen  (University of Massachusetts Amherst), Cameron Musco  (University of Massachusetts Amherst)
-
-&nbsp;  
-
-#### [Ensuring DNN Solution Feasibility for Optimization Problems with Linear Constraints](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper16.pdf)
-
-Tianyu Zhao  (City University of Hong Kong), Xiang Pan  (The Chinese University of Hong Kong), Minghua Chen  (City University of Hong Kong), Steven Low  (Caltech)
-
-&nbsp;  
-
-#### [Low Complexity Homeomorphic Projection to Ensure Neural-Network Solution Feasibility for Optimization over (Non-)Convex Set](https://learning-augmented-algorithms.github.io/papers/sigmetrics23-lata-posters-paper17.pdf)
-
-Enming Liang  (City University of Hong Kong), Minghua Chen  (City University of Hong Kong), Steven Low  (Caltech)

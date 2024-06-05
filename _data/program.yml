@@ -1,31 +1,28 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2023-06-19
+- name: Friday
+  abbr: Fri
+  date: 2024-06-14
   rooms:
-  - name: Main Workshop in Magnolia 17
+  - name: Main Workshop in Room TBD
     talks:
       - name: Opening Remarks
-        time_start: '8:00'
-        time_end: '8:05'
-      - name: Uniform Bounds for Scheduling with Job Size Estimates
-        time_start: '8:05'
-        time_end: '8:40'
-      - name: Machine learning for algorithm design with provable guarantees
-        time_start: '8:40'
+        time_start: '9:10'
         time_end: '9:15'
-      - name: Linear Bandits with Hints and Queries
+      - name: Invited Speaker: Stefan Schmid (talk title TBA)
         time_start: '9:15'
-        time_end: '9:50'
-      - name: Poster Session and Break
-        time_start: '9:50'
-        time_end: '10:15'
-      - name: "Learning-augmented dynamic algorithms: going beyond fine-grained lower bounds using predictions"
-        time_start: '10:15'
-        time_end: '10:50'
-      - name: Flow Time Scheduling with Uncertain Processing Time
-        time_start: '10:50'
-        time_end: '11:25'
+        time_end: '10:00'
+      - name: Short Poster Talks (5 minutes each)
+        time_start: '10:00'
+        time_end: '10:45'
+      - name: Poster Session & Coffee Break
+        time_start: '10:45'
+        time_end: '11:45'
+      - name: Invited Speaker: Christian Coester (talk title TBA)
+        time_start: '11:45'
+        time_end: '12:30'
+      - name: Approximation Algorithms with Predictions
+        time_start: '12:30'
+        time_end: '13:15'
       - name: Closing Remarks
-        time_start: '11:25'
-        time_end: '11:30'
+        time_start: '13:15'
+        time_end: '13:20'

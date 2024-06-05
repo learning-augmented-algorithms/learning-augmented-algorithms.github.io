@@ -71,15 +71,14 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
-      # - name: Accepted Posters
-      #   relative_url: /talks/poster/
-      # - name: Program
-      #   relative_url: /program/
-      # - name: Register
-      #   disabled: true
-        # relative_url: "https://www.sigmetrics.org/sigmetrics2023/registration.html"
+      # - name: Call for Posters
+      #   relative_url: /cfp/
+      - name: Accepted Posters
+        relative_url: /talks/poster/
+      - name: Program
+        relative_url: /program/
+      - name: Register
+        absolute_url: "https://www.sigmetrics.org/sigmetrics2024/registration.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
@@ -104,14 +103,14 @@ conference:
     logo:
       img: 'splash_2024.jpg'
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
-      # - name: Accepted Posters
-      #   relative_url: /talks/poster/
-      # - name: Program
-      #   relative_url: /program/
-      # - name: Registration
-      #   absolute_url: 'https://www.sigmetrics.org/sigmetrics2023/registration.html'
+      # - name: Call for Posters
+      #   relative_url: /cfp/
+      - name: Accepted Posters
+        relative_url: /talks/poster/
+      - name: Program
+        relative_url: /program/
+      - name: Registration
+        absolute_url: 'https://www.sigmetrics.org/sigmetrics2024/registration.html'
 
   # Information boxes
   # info_bars:
@@ -148,8 +147,12 @@ conference:
     main_categories:
       - name: Talk
         color: success
+      # - name: 5 minute poster talks
+      #   color: info
       - name: Poster
         color: info
+      - name: Poster Break
+        color: primary
       - name: Remarks
         color: warning
 
