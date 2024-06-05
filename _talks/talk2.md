@@ -1,5 +1,5 @@
 ---
-name: Invited Speaker: Christian Coester (talk title TBA)
+name: Christian Coester (Invited speaker, talk title TBA)
 speakers:
   - Christian Coester
 categories:

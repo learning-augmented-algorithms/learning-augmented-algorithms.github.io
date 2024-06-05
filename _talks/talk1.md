@@ -1,5 +1,5 @@
 ---
-name: Invited Speaker: Stefan Schmid (talk title TBA)
+name: Stefan Schmid (Invited speaker, talk title TBA)
 speakers:
   - Stefan Schmid
 categories:
