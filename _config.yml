@@ -182,6 +182,3 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: false
-
-    # show only start times
-    show_starttime_only: true

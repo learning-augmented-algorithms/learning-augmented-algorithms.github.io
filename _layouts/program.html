@@ -93,11 +93,7 @@
 
             <tr>
 
-              {%- if current_min == 0 and site.conference.program.show_starttime_only -%}
-                <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
-                  {{- current_time -}}
-                </th>
-              {%- elsif current_min == 0 -%}
+              {%- if current_min == 0 -%}
                 <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
                   {{- current_time -}}
                 </th>
@@ -188,7 +184,7 @@
     {%- if nbr_days > 1 %}
       </div>
     {%- endif %}
-  {%- endfor -%}
+  {%- endfor %}
   {%- if nbr_days > 1 %}
     </div>
   {%- endif %}
