@@ -2,8 +2,8 @@ days:
 - name: Friday
   abbr: Fri
   date: 2024-06-14
-  rooms:
-  - name: Main Workshop in Room TBD
+  rooms: 9A
+  - name: Main Workshop in Room 9A
     talks:
       - name: Opening Remarks
         time_start: '9:10'
