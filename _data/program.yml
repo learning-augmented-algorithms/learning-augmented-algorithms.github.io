@@ -2,7 +2,7 @@ days:
 - name: Friday
   abbr: Fri
   date: 2024-06-14
-  rooms: 9A
+  rooms:
   - name: Main Workshop in Room 9A
     talks:
       - name: Opening Remarks
