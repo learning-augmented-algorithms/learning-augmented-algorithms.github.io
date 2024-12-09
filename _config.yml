@@ -87,6 +87,8 @@ conference:
         menu:
           - name: 2024 (current)
             disabled: true
+          - name: 2024
+            relative_url: /2024/
           - name: 2023
             relative_url: /2023/
 
