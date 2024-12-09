@@ -1,8 +1,8 @@
 title: "Learning-augmented Algorithms: Theory and Applications (LATA)"
 preposition: at
-description: "Workshop on Learning-augmented Algorithms: Theory and Applications -- June 14, 2024 -- [SIGMETRICS 2024](https://www.sigmetrics.org/sigmetrics2024/)"
+description: "Workshop on Learning-augmented Algorithms: Theory and Applications -- June 13, 2025 -- [SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)"
 baseurl: ""
-url: "https://learning-augmented-algorithms.github.io" # the base hostname & protocol for your site
+url: "https://learning-augmented-algorithms.github.io/" # the base hostname & protocol for your site
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
@@ -66,53 +66,55 @@ conference:
 
   # Navigation bar
   navigation:
-    # logo:
-    #   name: Digital Society Switzerland
-    #   # img: ''
-    #   url: 'https://digitale-gesellschaft.ch/'
+    logo:
+      name: 'Learning-augmented Algorithms: Theory and Applications (LATA)'
+      img: 'latalogo.png'
+      relative_url: /
     links:
-      # - name: Call for Posters
-      #   relative_url: /cfp/
-      - name: Accepted Posters
-        relative_url: /talks/poster/
-      - name: Program
-        relative_url: /program/
+      - name: Call for Posters
+        relative_url: /cfp/
+      # - name: Accepted Posters
+      #   relative_url: /talks/poster/
+      # - name: Program
+      #   relative_url: /program/
       - name: Register
-        absolute_url: "https://www.sigmetrics.org/sigmetrics2024/registration.html"
+        absolute_url: "https://www.sigmetrics.org/sigmetrics2025/registration.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
       - name: Previous Years
         menu:
-          - name: 2024 (current)
+          - name: 2025 (current)
             disabled: true
           - name: 2024
             relative_url: /2024/
           - name: 2023
             relative_url: /2023/
+      # - name: "<b>Current Year</b>"
+      #   absolute_url: "https://learning-augmented-algorithms.github.io"
 
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
     img:
-      twitter: 'splash_2024.jpg'      # inside /assets/images/
-      open_graph: 'splash_2024.jpg'  # inside /assets/images/
+      twitter: 'splash_2025.jpg'      # inside /assets/images/
+      open_graph: 'splash_2025.jpg'  # inside /assets/images/
 
   # Main landing page
   main:
     logo:
-      img: 'splash_2024.jpg'
+      img: 'splash_2025.jpg'
     links:
-      # - name: Call for Posters
-      #   relative_url: /cfp/
-      - name: Accepted Posters
-        relative_url: /talks/poster/
-      - name: Program
-        relative_url: /program/
-      - name: Registration
-        absolute_url: 'https://www.sigmetrics.org/sigmetrics2024/registration.html'
+      - name: Call for Posters
+        relative_url: /cfp/
+      # - name: Accepted Posters
+      #   relative_url: /talks/poster/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: Registration
+      #   absolute_url: 'https://www.sigmetrics.org/sigmetrics2024/registration.html'
 
   # Information boxes
   # info_bars:

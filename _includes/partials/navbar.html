@@ -1,14 +1,26 @@
 <nav class="navbar navbar-expand-md navbar-light bg-light mb-3">
-  <div class="container">
+  <div class="container d-flex">
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <!--  -->
+    {%- if site.conference.navigation.logo %}
+      <div class="navbar-brand navbar-logo mr-0 text-left overflow-hidden">
+        <a href="{{ site.conference.navigation.logo.url }}">
+          {%- if site.conference.navigation.logo.img %}
+            <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-left" alt="{{ site.conference.navigation.logo.name }}" style="max-height: 40px;"/>
+          {%- else %}
+            {{ site.conference.navigation.logo.name }}
+          {%- endif %}
+        </a>
+      </div>
+    {%- endif %}
+    <a class="navbar-brand mr-auto" href="{{ site.baseurl }}/">Learning-augmented Algorithms: Theory and Applications</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         {%- for link in site.conference.navigation.links -%}
 
           {%- if link.menu %}
@@ -80,18 +92,6 @@
         {%- endfor %}
       </ul>
     </div>
-
-    {%- if site.conference.navigation.logo %}
-      <div class="navbar-brand navbar-logo mr-0 w-25 text-right overflow-hidden">
-        <a href="{{ site.conference.navigation.logo.url }}">
-          {%- if site.conference.navigation.logo.img %}
-            <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-middle" alt="{{ site.conference.navigation.logo.name }}" />
-          {%- else %}
-            {{ site.conference.navigation.logo.name }}
-          {%- endif %}
-        </a>
-      </div>
-    {%- endif %}
 
   </div>
 </nav>

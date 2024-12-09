@@ -31,13 +31,13 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 
 #### **Workshop Chairs:**
 
--   Spyros Angelopoulos, CNRS and Sorbonne University, [spyros.angelopoulos@lip6.fr](mailto:spyros.angelopoulos@lip6.fr)
+<!-- -   Spyros Angelopoulos, CNRS and Sorbonne University, [spyros.angelopoulos@lip6.fr](mailto:spyros.angelopoulos@lip6.fr)
 
 -   Nicolas Christianson, Caltech, [nchristianson@caltech.edu](mailto:nchristianson@caltech.edu)
 
 -   Shaolei Ren, UC Riverside, [sren@ece.ucr.edu](mailto:sren@ece.ucr.edu)
 
--   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca)
+-   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca) -->
 
 #### **Steering Committee:**
 
