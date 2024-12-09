@@ -20,7 +20,7 @@
   <meta property="og:description" content="Workshop on Learning-augmented Algorithms: Theory and Applications -- June 14, 2024 -- [SIGMETRICS 2024](https://www.sigmetrics.org/sigmetrics2024/)" />
   <meta property="og:type" content="website" />
 
-  <link rel="stylesheet" href="/2024/assets/css/main.css?t=1733761930" />
+  <link rel="stylesheet" href="/2024/assets/css/main.css?t=1733762350" />
 
   <link rel="preload" as="font" href="/2024/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
   <link rel="preload" as="font" href="/2024/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
@@ -195,7 +195,7 @@ You can adapt the design as well as the section shown on the map by copying the 
   </div>
 </div>
 <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
-  <script src="/2024/assets/js/main.js?t=1733761930"></script>
+  <script src="/2024/assets/js/main.js?t=1733762350"></script>
 
 </body>
 </html>
