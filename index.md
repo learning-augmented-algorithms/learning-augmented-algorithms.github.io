@@ -31,18 +31,23 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 
 #### **Workshop Chairs:**
 
-<!-- -   Spyros Angelopoulos, CNRS and Sorbonne University, [spyros.angelopoulos@lip6.fr](mailto:spyros.angelopoulos@lip6.fr)
+-   Adam Lechowicz, University of Massachusetts Amherst, [alechowicz@cs.umass.edu](mailto:alechowicz@cs.umass.edu)
 
--   Nicolas Christianson, Caltech, [nchristianson@caltech.edu](mailto:nchristianson@caltech.edu)
+-   Xutong Liu, Carnegie Mellon University, [xutongl@andrew.cmu.edu](mailto:xutongl@andrew.cmu.edu)
 
--   Shaolei Ren, UC Riverside, [sren@ece.ucr.edu](mailto:sren@ece.ucr.edu)
+-   Pengfei Li, University of California Riverside, [pengfei.li@email.ucr.edu](mailto:pengfei.li@email.ucr.edu)
 
--   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca) -->
-
-#### **Steering Committee:**
-
--   Adam Wierman, Caltech, [adamw@caltech.edu](mailto:adamw@caltech.edu)
+-   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca)
 
 -   Shahin Kamali, York University, [kamalis@yorku.ca](mailto:kamalis@yorku.ca)
 
--   Mohammad Hajiesmaili, UMass Amherst, [hajiesmaili@cs.umass.edu](mailto:hajiesmaili@cs.umass.edu)
+-   Nicolas Christianson, California Institute of Technology, [nchristianson@caltech.edu](mailto:nchristianson@caltech.edu)
+
+
+#### **Steering Committee:**
+
+-   Adam Wierman, California Institute of Technology, [adamw@caltech.edu](mailto:adamw@caltech.edu)
+
+-   Shahin Kamali, York University, [kamalis@yorku.ca](mailto:kamalis@yorku.ca)
+
+-   Mohammad Hajiesmaili, University of Massachusetts Amherst, [hajiesmaili@cs.umass.edu](mailto:hajiesmaili@cs.umass.edu)
