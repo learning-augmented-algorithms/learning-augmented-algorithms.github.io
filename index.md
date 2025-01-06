@@ -29,7 +29,7 @@ This area has blossomed in recent years, both in terms of foundational theoretic
   
   
 
-#### **Workshop Chairs:**
+#### **Workshop Organizers:**
 
 -   Adam Lechowicz, University of Massachusetts Amherst, [alechowicz@cs.umass.edu](mailto:alechowicz@cs.umass.edu)
 
