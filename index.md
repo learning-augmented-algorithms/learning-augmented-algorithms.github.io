@@ -37,8 +37,6 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 
 -   Pengfei Li, University of California Riverside, [pengfei.li@email.ucr.edu](mailto:pengfei.li@email.ucr.edu)
 
--   Spyros Angelopoulos, CNRS and ILLS, Montreal, [spyros.angelopoulos@lip6.fr](mailto:spyros.angelopoulos@lip6.fr)
-
 -   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca)
 
 -   Shahin Kamali, York University, [kamalis@yorku.ca](mailto:kamalis@yorku.ca)
@@ -53,3 +51,7 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 -   Shahin Kamali, York University, [kamalis@yorku.ca](mailto:kamalis@yorku.ca)
 
 -   Mohammad Hajiesmaili, University of Massachusetts Amherst, [hajiesmaili@cs.umass.edu](mailto:hajiesmaili@cs.umass.edu)
+
+-   Spyros Angelopoulos, CNRS and ILLS, Montreal, [spyros.angelopoulos@lip6.fr](mailto:spyros.angelopoulos@lip6.fr)
+
+-   Shaolei Ren, University of California Riverside, [shaolei@ucr.edu](mailto:shaolei@ucr.edu)
