@@ -17,8 +17,6 @@ Topics include, but are not limited to, theoretical work on the design and analy
 ##  Important Dates and Submission Site:
 
   
-**To be announced.**
-
 Submission deadline: **April 1st, 2025, Anywhere on Earth (AoE)**
 
 
