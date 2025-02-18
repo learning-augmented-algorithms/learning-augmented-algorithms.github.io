@@ -37,5 +37,5 @@ Submission site: **[https://sigmetrics25-lata.hotcrp.com/](https://sigmetrics25-
 Submissions should consist of a 2-page abstract (not including references) using the [ACM small template format](https://www.acm.org/publications/proceedings-template). The submission should include the names and affiliations of the contributors, a title, a brief abstract, and a summary of the contributions; preliminary results may also be included. Submissions must be in PDF format. In case the poster presents results of the recently-published papers, bibliographic references to the paper (authors, title, and venue) must be included.
   
 
-**Review process:** Submitted posters will be reviewed between *April 1st* and *April 15th*. The review will be minimal and focus primarily on relevance to the workshop's focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during breaks.
+**Review process:** Submitted posters will be reviewed between *April 1st* and *April 15th*. The review will be minimal and focus primarily on relevance to the workshop's focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be posted up throughout the workshop, and authors should prepare a 5 minute "flash talk" on their topic for the poster session.
 
