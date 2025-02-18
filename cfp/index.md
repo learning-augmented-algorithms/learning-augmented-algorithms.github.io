@@ -39,22 +39,3 @@ Submissions should consist of a 2-page abstract (not including references) using
 
 **Review process:** Submitted posters will be reviewed between *April 1st* and *April 15th*. The review will be minimal and focus primarily on relevance to the workshop's focus and likelihood of leading to interesting discussions at the workshop. Accepted posters will be presented during breaks.
 
-
-##  Program Committee:
-
-**To be announced.**
-
-<!-- - Zaiwei Chen (Caltech): zchen458@caltech.edu
-- Nico Christianson (Caltech): nchristianson@caltech.edu
-- Lauren Conger (Caltech): lconger@caltech.edu
-- Tinashe Handina (Caltech): thandina@caltech.edu
-- Adam Lechowicz (UMass Amherst): alechowicz@cs.umass.edu
-- Russell Lee (UMass Amherst): rclee@cs.umass.edu
-- Pengfei Li (UC Riverside): pli081@ucr.edu
-- Yiheng Lin (Caltech): yihengl@caltech.edu
-- Georgii Melidi (CNRS and Sorbonne University): georgii.melidi@lip6.fr
-- Cooper Sigrist (UMass Amherst): csigrist@umass.edu
-- Bo Sun (CUHK): bsun@cse.cuhk.edu.hk
-- Jianyi Yang: (UC Riverside):  jyang239@ucr.edu
-- Jing Yu (Caltech): jing@caltech.edu
-- Jinhang Zuo (UMass Amherst and Caltech): jinhangzuo@umass.edu  -->
