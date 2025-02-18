@@ -1,7 +1,13 @@
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+
 on:
-   # Runs on pushes targeting the default branch
-   push:
-     branches: ["main"]
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -9,25 +15,19 @@ permissions:
   pages: write
   id-token: write
 
-name: Generate Website and Deploy
-# Performs the following steps:
-#   - Install all dependencies (and caches them for future runs)
-#   - Builds the website
-#   - Compresses the generated website
-#   - Packages the generated website
-#   - Creates a release based on the originating tag
-#   - Attaches the package to the release
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
+  # Build job
   build:
-    name: Generate Website
     runs-on: ubuntu-latest
     steps:
-
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          lfs: true
-
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Setup Ruby, Bundler and Jekyll
         uses: ruby/setup-ruby@v1
         with:
@@ -49,45 +49,17 @@ jobs:
         with:
           node-version: '12'
 
-      - name: Install PurgeCSS and Terser
+      - name: Install PurgeCSS
         run: |
-          npm install -g purgecss@5.0.0
-          npm install -g terser
-      - name: Compress CSS with PurgeCSS
-        run: |
-          purgecss --config purgecss.config.js
-      - name: Compress JavaScript with Terser
-        run: |
-          terser _site/assets/js/main.js --compress ecma=2015,top_retain=window.conference --mangle --comments false --output _site/assets/js/main.js
+          npm install -g purgecss
+      # - name: Build with Jekyll
+      #   uses: actions/jekyll-build-pages@v1
+      #   with:
+      #     source: ./
+      #     destination: ./_site
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v1
-#       - name: Package generated website
-#         run: |
-#           cd _site/
-#           zip -r ../website.zip *
-#           cd ../
-#       - name: Create Release
-#         id: create_release
-#         uses: actions/create-release@v1
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#         with:
-#           tag_name: ${{ github.ref }}
-#           release_name: Release ${{ github.ref }}
-#           draft: false
-#           prerelease: false
+        uses: actions/upload-pages-artifact@v3
 
-#       - name: Upload zipped Website as Release Asset
-#         uses: actions/upload-release-asset@v1
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#         with:
-#           upload_url: ${{ steps.create_release.outputs.upload_url }}
-#           asset_path: ./website.zip
-#           asset_name: website.zip
-#           asset_content_type: application/zip
-          
   # Deployment job
   deploy:
     environment:
@@ -98,4 +70,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
