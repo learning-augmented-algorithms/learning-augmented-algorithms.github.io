@@ -1,5 +1,5 @@
 ---
-name: 'TBA - J.Dallot'
+name: Randomness and Learning-Augmented Algorithms
 speakers:
   - Julien Dallot
 categories:
