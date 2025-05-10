@@ -71,12 +71,12 @@ conference:
       img: 'latalogo.png'
       relative_url: /
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
-      # - name: Accepted Posters
-      #   relative_url: /talks/poster/
-      # - name: Program
-      #   relative_url: /program/
+      # - name: Call for Posters
+      #   relative_url: /cfp/
+      - name: Accepted Posters
+        relative_url: /talks/poster/
+      - name: Program
+        relative_url: /program/
       - name: Register
         absolute_url: "https://www.sigmetrics.org/sigmetrics2025/registration.html"
       # - name: Talks

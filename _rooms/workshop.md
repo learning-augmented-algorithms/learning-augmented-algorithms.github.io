@@ -1,5 +1,5 @@
 ---
-name: Main Workshop in Room 9B
+name: Main Workshop
 ---
 
-The workshop will be held in Room 9B of Venice International University on San Servolo Island, with the poster session located in the coffee break area. For details on transportation to and from the island, please see [the main SIGMETRICS site](https://www.sigmetrics.org/sigmetrics2024/transportation.html).
+The workshop will be held at the Charles B. Wang Center at Stony Brook University (room TBD), and the poster session will be co-located with the other workshops at SIGMETRICS. For details on transportation to and from the conference, please see [the main SIGMETRICS site](https://www.sigmetrics.org/sigmetrics2025/transportation.html).

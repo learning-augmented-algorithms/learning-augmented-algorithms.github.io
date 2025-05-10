@@ -1,9 +1,11 @@
 ---
-name: 'Learning-Augmented Online Algorithms: The Case for the Infused Advice Model and an Application to Datacenter Switch Buffer Sharing with ML Predictions'
+name: Mechanism Design with Predictions
 speakers:
-  - Stefan Schmid
+  - Eric Balkanski
 categories:
   - Talk
 ---
 
-In practice, many online algorithms outperform their theoretical worst-case guarantees assured by the competitive ratio: the algorithms seem to "enjoy a good fortune". In this talk, I will make the case for the infused advice model which allows us to shed light on the beyond worst-case performance of randomized online algorithms. The crux of the infused advice approach is that unlike existing advice/predictions models, it does not require the development of new algorithms. This also enables the empirical study of online algorithms benefitting from ML predictions. I will further discuss promising practical applications for learning-augmented online algorithms in the context of communication networks, in particular buffer sharing in datacenters.
+#### Talk Abstract
+
+This talk presents recent advancements in the design of strategyproof mechanisms in the learning-augmented framework. To exhibit the potential benefits of this approach, I will mostly focus on the problem of facility location with strategic agents. In this problem, a set of agents report their locations in a metric space and the goal is to use these reports to open a new facility, minimizing an aggregate distance measure from the agents to the facility. However, agents are strategic and may misreport their locations to influence the facility's placement in their favor. The aim is to design truthful mechanisms, ensuring agents cannot gain by misreporting. We study both the egalitarian and utilitarian social cost functions, and propose new strategyproof mechanisms that leverage predictions to guarantee an optimal trade-off between consistency and robustness guarantees.

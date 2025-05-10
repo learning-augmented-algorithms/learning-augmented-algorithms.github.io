@@ -1,28 +1,40 @@
 days:
 - name: Friday
   abbr: Fri
-  date: 2024-06-14
+  date: 2025-06-13
   rooms:
-  - name: Main Workshop in Room 9B
+  - name: Main Workshop
     talks:
       - name: Opening Remarks
-        time_start: '9:10'
-        time_end: '9:15'
-      - name: 'Learning-Augmented Online Algorithms: The Case for the Infused Advice Model and an Application to Datacenter Switch Buffer Sharing with ML Predictions'
-        time_start: '9:15'
-        time_end: '10:00'
-      - name: Short Poster Talks (5 minutes each)
-        time_start: '10:00'
-        time_end: '10:45'
+        time_start: '8:55'
+        time_end: '9:00'
+      - name: Mechanism Design with Predictions
+        time_start: '9:00'
+        time_end: '9:45'
+      - name: Online Virtual Machine Allocation with Predictions
+        time_start: '9:45'
+        time_end: '10:30'
       - name: Poster Session & Coffee Break
-        time_start: '10:45'
+        time_start: '10:30'
         time_end: '11:45'
-      - name: Sorting and Priority Queues with Predictions
+      - name: 'TBA - T.Lykouris'
         time_start: '11:45'
         time_end: '12:30'
-      - name: Approximation Algorithms with Predictions
+      - name: Lunch
         time_start: '12:30'
-        time_end: '13:15'
+        time_end: '13:30'
+      - name: 'TBA - H.Beyhaghi'
+        time_start: '13:30'
+        time_end: '14:15'
+      - name: 'TBA - S.Vassilvitskii'
+        time_start: '14:15'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: 'TBA - J.Dallot'
+        time_start: '15:30'
+        time_end: '16:15'
       - name: Closing Remarks
-        time_start: '13:15'
-        time_end: '13:20'
+        time_start: '16:15'
+        time_end: '16:20'

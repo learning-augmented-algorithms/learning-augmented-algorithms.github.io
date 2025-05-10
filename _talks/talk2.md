@@ -1,11 +1,11 @@
 ---
-name: Sorting and Priority Queues with Predictions
+name: Online Virtual Machine Allocation with Predictions
 speakers:
-  - Christian Coester
+  - Konstantina Mellou
 categories:
   - Talk
 ---
 
-The talk discusses two of the most fundamental problems in algorithms and data structures through the lens of algorithms-with-predictions / learning-augmented algorithms: sorting and priority queues. We consider different types of predictions and show how these can be used to improve running time and comparison complexity of algorithms. In one setting, the algorithm is given predictions about the rank of items, and in another setting, the algorithm has access to quick-and-dirty comparisons to complement much slower exact comparisons. We obtain simple algorithms with optimal guarantees and favorable experimental performance in sorting tasks as well as when applied to Dijkstra’s shortest path algorithm.
+#### Talk Abstract
 
-Based on joint works with Xingjian Bai and Ziyad Benomar.
+In this talk, we show how predictions can help with a core challenge in cloud computing – optimizing Virtual Machine allocation – both theoretically and in practice for Microsoft Azure. Virtual Machine (VM) requests need to be assigned to physical machines in a way that minimizes resource fragmentation and efficiently utilizes the available machines. This problem can be modeled as a dynamic version of the bin packing problem where each item (VM) has both a size (e.g., CPU requirement) and lifetime (the time duration spent in the system). A common goal here is minimizing the total usage time of the bins (physical machines). Motivated by advances in Machine Learning that provide good estimates of workload characteristics, we study the effect of this extra information on the allocation quality. Theoretically, we show that the competitive factor can be dramatically improved; in some cases, we achieve constant competitiveness, or even a competitive factor that approaches 1. We then show how predictions are currently used in Microsoft Azure to improve the Virtual Machine allocation.
