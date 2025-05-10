@@ -3,7 +3,7 @@ name: Lunch
 speakers:
   - Organizers
 categories:
-  - Remarks
+  - Transitions
 hide: true
 ---
 

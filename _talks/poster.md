@@ -3,7 +3,7 @@ name: Poster Session & Coffee Break
 speakers:
   - Poster Authors
 categories:
-  - Poster
+  - Poster Break
 hide: false
 ---
 

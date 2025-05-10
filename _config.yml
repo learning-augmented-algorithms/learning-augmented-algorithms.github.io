@@ -153,7 +153,7 @@ conference:
         color: success
       # - name: 5 minute poster talks
       #   color: info
-      - name: Poster
+      - name: Transitions
         color: info
       - name: Poster Break
         color: primary

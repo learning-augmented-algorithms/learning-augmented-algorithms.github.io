@@ -3,7 +3,7 @@ name: Coffee Break
 speakers:
   - Organizers
 categories:
-  - Remarks
+  - Transitions
 hide: true
 ---
 
