@@ -7,49 +7,48 @@ categories:
 hide: false
 ---
 
-#### [Information Design with Predictions](https://learning-augmented-algorithms.github.io/)
+#### Learning-Augmented Algorithms for the Bahncard Problem
 
-Keegan Harris (CMU), Steven Wu (CMU), Nina Balcan (CMU)
-
-&nbsp;  
-
-#### [Online bipartite matching with imperfect advice](https://learning-augmented-algorithms.github.io/)
-
-Davin Choo (National University of Singapore), Themistoklis Gouleakis (National University of Singapore), Chun Kai Ling (Columbia University), Arnab Bhattacharyya (National University of Singapore)
+Hailiang Zhao (Zhejiang University, Xueyan Tang (Nanyang Technological University), Peng Chen (Zhejiang University), Shuiguang Deng (Zhejiang University)
 
 &nbsp;  
 
-#### [Decentralized Scheduling with QoS Constraints: Achieving $O(1)$ QoS Regret of Multi-Player Bandits](https://learning-augmented-algorithms.github.io/)
+#### Value-Oblivious Secretaries with Advice
 
-Qingsong Liu (Tsinghua University), Zhixuan Fang (Tsinghua University)
-
-&nbsp;  
-
-#### [Chasing Convex Functions with Long-term Constraints: Optimal Consistency-Robustness Tradeoffs](https://learning-augmented-algorithms.github.io/)
-
-Adam Lechowicz (UMass Amherst), Nicolas Christianson (Caltech), Bo Sun (University of Waterloo), Noman Bashir (MIT), Mohammad Hajiesmaili (UMass Amherst), Adam Wierman (Caltech), Prashant Shenoy (UMass Amherst)
+Hasti NourMohammadi (University of Alberta), Ying Cao (HKUST), Bo Sun (University of Waterloo), Xiaoqi Tan (University of Alberta)
 
 &nbsp;  
 
-#### [Contract Scheduling with Distributional and Multiple Advice](https://learning-augmented-algorithms.github.io/)
+#### Dual-Learning-Augmented Algorithm for Edge-Weighted Online Bipartite Matching
 
-Spyros Angelopoulos (CNRS and Sorbonne University), Marcin Bienkowski (University of Wroclaw), Christoph Durr (CNRS and LIP6 - Sorbonne University), Bertrand Simon (CNRS / IN2P3 Computing Center)
+Jianyi Yang (University of Houston)
 
 &nbsp;  
 
-#### [Anytime-Competitive Reinforcement Learning with Policy Prior](https://learning-augmented-algorithms.github.io/)
+#### Heterogeneous Multi-Agent Bandits with Parsimonious Hints
 
-Jianyi Yang (UC Riverside), Pengfei Li (UC Riverside), Tongxin Li (CUHK Shenzhen), Adam Wierman (Caltech), Shaolei Ren (UC Riverside)
+Amirmahdi Mirfakhar (UMass Amherst), Xuchuang Wang (UMass Amherst), Jinhang Zuo (CityUHK), Yair Zick (UMass Amherst), Mohammad Hajiesmaili (UMass Amherst)
+
+&nbsp;  
+
+#### Cost-Driven Data Caching with Predictions
+
+Tianyu Zuo (Nanyang Technological University), Xueyan Tang (Nanyang Technological University), Bu Sung Lee (Nanyang Technological University)
+
+&nbsp;  
+
+#### Distributionally Robust Learning for Smoothed Online Optimization via Generative Ambiguity Modeling
+
+Calvin Glisson (California State University, San Bernardino), Pengfei Li (UC Riverside), Qiuxiao Chen (California State University, San Bernardino), Jianyi Yang (University of Houston)
 
 &nbsp;
 
-#### [Fast and Reliable $N - k$ Contingency Screening with Input-Convex Neural Networks](https://learning-augmented-algorithms.github.io/)
+#### From Prediction to Performance: Consistency and Robustness in Online Knapsack
 
-Nicolas Christianson (Caltech), Wenqi Cui (University of Washington), Steven Low (Caltech), Weiwei Yang (Microsoft Research), Baosen Zhang (University of Washington)
+Helia Karisani (UMass Amherst), Mohammadreza Daneshvaramoli (UMass Amherst), Adam Lechowicz (UMass Amherst), Bo Sun (University of Waterloo), Cameron Musco (UMass Amherst), Mohammad Hajiesmaili (UMass Amherst)
 
 &nbsp;
 
-#### [Online Conversion under Unknown Horizon: Beating $1 + \ln \theta$ with a Single Trusted Query](https://learning-augmented-algorithms.github.io/)
+#### Online Mechanism Design with Predictions
 
-Ying Cao (HKUST), Hasti NourMohammadi (University of Alberta), Bo Sun (University of Waterloo), Xiaoqi Tan (University of Alberta), Danny H.K. Tsang (HKUST)
-
+Eric Balkanski (Columbia University), Vasilis Gkatzelis (Drexel University), Xizhi Tan (Drexel University), Cherlin Zhu (Columbia University)
