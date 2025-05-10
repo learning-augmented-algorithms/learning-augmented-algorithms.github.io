@@ -1,4 +1,4 @@
-title: "Learning-augmented Algorithms: Theory & Applications (LATA)"
+title: "Learning-augmented Algorithms: Theory and Applications (LATA)"
 preposition: at
 description: "Workshop on Learning-augmented Algorithms: Theory and Applications -- June 13, 2025 -- [SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)"
 baseurl: ""
@@ -67,7 +67,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: 'Learning-augmented Algorithms: Theory and Applications (LATA)'
+      name: 'Learning-augmented Algorithms: Theory & Applications (LATA)'
       img: 'latalogo.png'
       relative_url: /
     links:
