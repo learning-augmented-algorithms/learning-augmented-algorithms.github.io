@@ -5,7 +5,6 @@ last_name: Lykouris
 links:
   - name: Website
     absolute_url: https://mitsloan.mit.edu/faculty/directory/thodoris-lykouris
-hide: true
 ---
 
 #### Speaker Bio
