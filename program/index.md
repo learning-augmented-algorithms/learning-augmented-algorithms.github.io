@@ -7,6 +7,6 @@ title: Program
 
 Workshop Date: **Friday, June 13th, 2025**
 
-Location: Charles B. Wang Center, Stony Brook University -- [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/index.html) -- **Stony Brook, New York**
+Location: Room 201, Charles B. Wang Center, Stony Brook University -- [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/index.html) -- **Stony Brook, New York**
 
 The workshop will be held from 9:00 AM to 4:15 PM (EST) at SIGMETRICS 2025.
