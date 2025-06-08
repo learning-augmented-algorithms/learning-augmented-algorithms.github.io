@@ -26,7 +26,7 @@ days:
       - name: Active, Noise-Tolerant, and Strategic Online Classification
         time_start: '13:30'
         time_end: '14:15'
-      - name: 'TBA - S.Vassilvitskii'
+      - name: Algorithms with (Distributional) Predictions 
         time_start: '14:15'
         time_end: '15:00'
       - name: Coffee Break

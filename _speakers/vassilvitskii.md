@@ -5,9 +5,8 @@ last_name: Vassilvitskii
 links:
   - name: Website
     absolute_url: https://research.google/people/sergeivassilvitskii/
-hide: true
 ---
 
 #### Speaker Bio
 
-Bio TBA
+Sergei Vassilvitskii is a research scientist at Google where he leads a team working on algorithms, privacy, and value of data
