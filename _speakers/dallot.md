@@ -2,7 +2,6 @@
 name: Julien Dallot
 first_name: Julien
 last_name: Dallot
-hide: true
 ---
 
 #### Speaker Bio
