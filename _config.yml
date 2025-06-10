@@ -77,8 +77,10 @@ conference:
         relative_url: /talks/poster/
       - name: Program
         relative_url: /program/
-      - name: Register
-        absolute_url: "https://www.sigmetrics.org/sigmetrics2025/registration.html"
+      # - name: Register
+      #   absolute_url: "https://www.sigmetrics.org/sigmetrics2025/registration.html"
+      - name: Attending
+        absolute_url: "https://www.sigmetrics.org/sigmetrics2025/venue_travel.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
