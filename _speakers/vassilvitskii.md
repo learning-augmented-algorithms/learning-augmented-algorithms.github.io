@@ -9,4 +9,4 @@ links:
 
 #### Speaker Bio
 
-Sergei Vassilvitskii is a research scientist at Google where he leads a team working on algorithms, privacy, and value of data
+Sergei Vassilvitskii is a research scientist at Google where he leads a team working on algorithms, privacy, and value of data.
