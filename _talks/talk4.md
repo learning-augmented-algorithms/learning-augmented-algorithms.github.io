@@ -4,6 +4,10 @@ speakers:
   - Hedyeh Beyhaghi
 categories:
   - Talk
+links:
+  - name: Recording
+    icon: video
+    absolute_url: https://youtu.be/XtGYWA1Sgck?si=I2NBD5mnWdvPZEBZ
 ---
 
 #### Talk Abstract

@@ -4,6 +4,10 @@ speakers:
   - Eric Balkanski
 categories:
   - Talk
+links:
+  - name: Recording
+    icon: video
+    absolute_url: https://youtu.be/PHmyeIAYh60?si=vpNKOGr6Dhamx_1U
 ---
 
 #### Talk Abstract

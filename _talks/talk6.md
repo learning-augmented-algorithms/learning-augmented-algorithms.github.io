@@ -4,6 +4,10 @@ speakers:
   - Julien Dallot
 categories:
   - Talk
+links:
+  - name: Recording
+    icon: video
+    absolute_url: https://youtu.be/u4DlAAVqF58?si=nUG9_XHTZOa21EzB
 ---
 
 #### Talk Abstract

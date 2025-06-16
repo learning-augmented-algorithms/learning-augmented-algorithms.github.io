@@ -4,6 +4,10 @@ speakers:
   - Sergei Vassilvitskii
 categories:
   - Talk
+links:
+  - name: Recording
+    icon: video
+    absolute_url: https://youtu.be/Y2hG2DZt1zg?si=2jCuktdPrgtYxH2t
 ---
 
 #### Talk Abstract
