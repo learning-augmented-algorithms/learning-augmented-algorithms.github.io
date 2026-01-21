@@ -19,7 +19,7 @@ This workshop will cover recent results as well as new, emerging directions in t
     
 -   How to train (possibly multiple) predictors to best suit the needs of online algorithms and improve the average performance while ensuring worst-case robustness? -->
 
-This area has blossomed in recent years, both in terms of foundational theoretical results but also in terms of exciting applications across a broad range of settings, such as streaming algorithms, online scheduling, clustering, filtering, online matching, caching, system control, cloud computing, and many others. Previous workshops and seminars on this topic include [ALPS 2022](https://alps2022.epfl.ch/) at EPFL, workshops on Algorithms with Predictions at [STOC 2020](https://www.mit.edu/~vakilian/stoc-workshop.html) and [STOC 2022](https://theory.stanford.edu/~sergei/stoc2022alps.html), [Machine Learning for Algorithms](https://fodsi.us/ml4a.html) at FODSI 2021, Learning-Augmented Algorithms at [TTIC Summer 2024](https://www.ttic.edu/summer-workshop-2024/), and the previous iterations of this workshop at SIGMETRICS [2023]({{ site.url }}/2023/) and [2024]({{ site.url }}/2024/).
+This area has blossomed in recent years, both in terms of foundational theoretical results but also in terms of exciting applications across a broad range of settings, such as streaming algorithms, online scheduling, clustering, filtering, online matching, caching, system control, cloud computing, and many others. Previous workshops and seminars on this topic include [ALPS 2022](https://alps2022.epfl.ch/) at EPFL, workshops on Algorithms with Predictions at [STOC 2020](https://www.mit.edu/~vakilian/stoc-workshop.html) and [STOC 2022](https://theory.stanford.edu/~sergei/stoc2022alps.html), [Machine Learning for Algorithms](https://fodsi.us/ml4a.html) at FODSI 2021, Learning-Augmented Algorithms at [TTIC Summer 2024](https://www.ttic.edu/summer-workshop-2024/), and the previous iterations of this workshop at SIGMETRICS [2023]({{ site.url }}/2023/), [2024]({{ site.url }}/2024/), and [2025]({{ site.url }}/2025/).
 
   
 
@@ -31,27 +31,22 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 
 #### **Workshop Organizers:**
 
+-   Nicolas Christianson, Stanford University and Johns Hopkins University, [christianson@stanford.edu](mailto:christianson@stanford.edu)
+
 -   Adam Lechowicz, University of Massachusetts Amherst, [alechowicz@cs.umass.edu](mailto:alechowicz@cs.umass.edu)
 
--   Xutong Liu, Carnegie Mellon University, [xutongl@andrew.cmu.edu](mailto:xutongl@andrew.cmu.edu)
+-   Xuchuang Wang, University of Massachusetts Amherst, [xuchuangwang@umass.edu](mailto:xuchuangwang@umass.edu)
 
--   Pengfei Li, University of California Riverside, [pengfei.li@email.ucr.edu](mailto:pengfei.li@email.ucr.edu)
+-   Bo Sun, University of Ottowa, [bo.sun@uwaterloo.ca](mailto:bo.sun@uottowa.ca)
 
--   Bo Sun, University of Waterloo, [bo.sun@uwaterloo.ca](mailto:bo.sun@uwaterloo.ca)
 
--   Shahin Kamali, York University, [kamalis@yorku.ca](mailto:kamalis@yorku.ca)
 
--   Nicolas Christianson, California Institute of Technology, [nchristianson@caltech.edu](mailto:nchristianson@caltech.edu)
 
 
 #### **Steering Committee:**
 
+-   Mohammad Hajiesmaili, University of Massachusetts Amherst, [hajiesmaili@cs.umass.edu](mailto:hajiesmaili@cs.umass.edu)
+
 -   Adam Wierman, California Institute of Technology, [adamw@caltech.edu](mailto:adamw@caltech.edu)
 
 -   Shahin Kamali, York University, [kamalis@yorku.ca](mailto:kamalis@yorku.ca)
-
--   Mohammad Hajiesmaili, University of Massachusetts Amherst, [hajiesmaili@cs.umass.edu](mailto:hajiesmaili@cs.umass.edu)
-
--   Spyros Angelopoulos, CNRS and ILLS, Montreal, [spyros.angelopoulos@lip6.fr](mailto:spyros.angelopoulos@lip6.fr)
-
--   Shaolei Ren, University of California Riverside, [shaolei@ucr.edu](mailto:shaolei@ucr.edu)
