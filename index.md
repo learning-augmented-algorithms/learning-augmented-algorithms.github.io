@@ -37,7 +37,7 @@ This area has blossomed in recent years, both in terms of foundational theoretic
 
 -   Xuchuang Wang, University of Massachusetts Amherst, [xuchuangwang@umass.edu](mailto:xuchuangwang@umass.edu)
 
--   Bo Sun, University of Ottowa, [bo.sun@uottowa.ca](mailto:bo.sun@uottowa.ca)
+-   Bo Sun, University of Ottawa, [bo.sun@uottawa.ca](mailto:bo.sun@uottawa.ca)
 
 
 
