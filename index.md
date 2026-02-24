@@ -2,9 +2,16 @@
 layout: home
 ---
 
-This workshop will cover recent results as well as new, emerging directions in the rapidly-advancing field of **learning-augmented algorithms**, also known as algorithms with predictions or algorithms with ML advice. This nascent area, at the intersection of TCS and ML, studies the interplay between ML and the design/analysis of algorithms with strict, provable performance guarantees. The workshop aims to provide a forum for recent developments in the design, analysis, and application of learning-augmented algorithms, including topics such as:
+This workshop will cover recent results as well as new, emerging directions in the rapidly-advancing field of **learning-augmented algorithms**, also known as algorithms with predictions or algorithms with AI/ML advice. This nascent area, at the intersection of TCS and ML, studies the interplay between ML and the design/analysis of algorithms with strict, provable performance guarantees. The workshop aims to provide a forum for recent developments in the design, analysis, and application of learning-augmented algorithms, including topics such as:
 
--   **Design and analysis of algorithms with ML predictions**: Exploring methods to use (possibly imperfect) predictions robustly, i.e., leveraging predictions to enhance algorithmic performance while retaining the worst-case guarantees of classic algorithms. This also encompasses developing new ML techniques for learning predictions that are tailored to particular challenging problem settings and applying data-driven approaches to optimize crucial algorithm parameters with learning-theoretic guarantees.
+-   **Design and analysis of learning-augmented algorithms**: Exploring methods to use (possibly imperfect) predictions robustly, i.e., leveraging predictions to enhance algorithmic performance while retaining the worst-case guarantees of classic algorithms across various domains. Problem settings may include, but are not limited to: 
+    - Online algorithms 
+    - Approximation algorithms
+    - Data structures
+    - Streaming algorithms
+    - Mechanism design 
+    - Learning for optimization.
+This direction also encompasses developing new ML techniques for learning predictions or policies that are tailored to specific problem settings, data-driven approaches for optimizing algorithm parameters or policies with learning-theoretic convergence or generalization guarantees, and emerging directions for integrating frontier AI methods such as LLMs and agentic tools into algorithm design and analysis. 
 
 -   **Applications**: Evaluating the real-world impact of learning-augmented algorithms on various systems or problems, such as resource management in computing systems and networks, control and optimization in computing infrastructure, cyber-physical systems, smart grids, and sustainable infrastructure, scheduling and matching in market design, industrial manufacturing, and economic systems. Additional applications may extend to human-centered decision-making, including healthcare systems and trustworthy machine learning, as well as optimizing deployment and performance for scientific discovery, machine learning systems, and large language models.
   
