@@ -17,7 +17,7 @@ Notification of acceptance: **April 15, 2026**
 
 Workshop: **June 12, 2026**
 
-Submission site: https://sigmetrics26-lata.hotcrp.com/
+Submission site: [https://sigmetrics26-lata.hotcrp.com/](https://sigmetrics26-lata.hotcrp.com/)
 
 ### Submission Guidelines
 
@@ -29,4 +29,4 @@ Submitted posters will be reviewed between April 1st and April 15th.  The review
 
 ### Accepted Posters
 
-Authors of accepted contributions should prepare a physical poster for the workshop poster session (any size up to 48 inches x 60 inches is acceptable).  Some posters will be invited to give a 10-15min (conference-style) short presentation during a talk session.  After the workshop, revised versions of the poster abstracts will be published in a special issue of [Performance Evaluation Review](https://www.sigmetrics.org/per.shtml), with an extra page allowed to address reviewer comments and/or summarize discussions from the workshop.  Authors of abstracts grant ACM permission to publish them in print and digital formats, although PER does not claim copyright (as stated in the template)—authors retain copyright of their work with complete freedom to submit their work elsewhere.
+Authors of accepted contributions should prepare a physical poster for the workshop poster session (any size up to 48 inches x 60 inches is acceptable).  Select posters will be invited to give a 10-15 minute (conference-style) short presentation during a talk session.  After the workshop, revised versions of the poster abstracts will be published in a special issue of [Performance Evaluation Review](https://www.sigmetrics.org/per.shtml), with an extra page allowed to address reviewer comments and/or summarize discussions from the workshop.  Authors of abstracts grant ACM permission to publish them in print and digital formats, although PER does not claim copyright (as stated in the template)—authors retain copyright of their work with complete freedom to submit their work elsewhere.
