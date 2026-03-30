@@ -11,7 +11,7 @@ We encourage the submission of posters discussing works in progress, new researc
 
 ### Important Dates and Submission Site
 
-Submission deadline: **April 1, 2026, Anywhere on Earth (AoE)**
+Submission deadline: **~~April 1~~ extended to April 8, 2026, Anywhere on Earth (AoE)**
 
 Notification of acceptance: **April 15, 2026**
 
@@ -25,7 +25,7 @@ Abstract submissions must be prepared using the double-column Performance Evalua
 
 ### Review Process
 
-Submitted posters will be reviewed between April 1st and April 15th.  The review will focus primarily on relevance to the workshop’s scope and likelihood of leading to interesting discussions at the workshop. 
+Submitted posters will be reviewed between April 8th and April 15th.  The review will focus primarily on relevance to the workshop’s scope and likelihood of leading to interesting discussions at the workshop. 
 
 ### Accepted Posters
 
