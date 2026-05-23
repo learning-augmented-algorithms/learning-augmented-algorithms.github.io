@@ -1,0 +1,176 @@
+{% include partials/header.html %}
+
+  <h1 class="display-5 mb-4">
+    {%- if page.title -%}
+      {{- page.title -}}
+    {%- else -%}
+      Talks
+    {%- endif -%}
+  </h1>
+
+  {{ content }}
+
+  {% assign keynote_category = "Keynote" %}
+  {% assign contributed_category = "Contributed Talks" %}
+  {% assign keynote_color = "primary" %}
+  {% assign contributed_color = "info" %}
+
+  {% for main_category in site.conference.talks.main_categories %}
+    {% if main_category.name == keynote_category %}
+      {% assign keynote_color = main_category.color %}
+    {% elsif main_category.name == contributed_category %}
+      {% assign contributed_color = main_category.color %}
+    {% endif %}
+  {% endfor %}
+
+  <h3 class="mt-4 mb-3">
+    <span class="badge border-soft-{{ keynote_color }} bg-soft-{{ keynote_color }} d-block d-sm-inline text-wrap">
+      {{ keynote_category }}
+    </span>
+  </h3>
+  <ul class="list-unstyled">
+    {% for talk in site.talks -%}
+      {%- assign is_keynote = false -%}
+      {%- for cat in talk.categories -%}
+        {%- if cat == keynote_category -%}
+          {%- assign is_keynote = true -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+
+      {%- if is_keynote -%}
+        <li class="pl-2 mb-2 border-soft-{{ keynote_color }}">
+          <p class="mb-0">
+            {% include partials/show_talk.html %}
+          </p>
+          <p class="font-weight-light mb-0">
+            {% include partials/list_speakers.html %}
+          </p>
+
+          {%- assign talk_scheduled = false -%}
+          {%- for d in site.data.program.days -%}
+            {%- include partials/get_day_hash.html -%}
+            {%- for r in d.rooms -%}
+              {%- assign room = site.rooms | where: 'name', r.name | first -%}
+              {%- for t in r.talks -%}
+                {%- if talk.name == t.name -%}
+                  <p class="mb-0">
+                    {%- if site.conference.live -%}
+                      {%- include partials/get_talk_timestamp.html -%}
+                      <span class="live-hide" data-start="{{ timestamp_start }}" data-end="{{ timestamp_end }}">
+                    {%- endif -%}
+
+                    {%- include partials/get_time_pronoun.html -%}
+                    {%- include partials/get_talk_time.html -%}
+                    {{- time_pronoun }} {% include partials/show_talk_time.html %}
+
+                    {%- if site.conference.live -%}
+                      </span>
+                      {%- include partials/show_live_button.html -%}
+                    {%- endif %}
+
+                    {{ site.data.lang[site.conference.lang].pronoun.in | default: "in" }} {% include partials/show_room.html -%}
+                  </p>
+
+                  {%- assign talk_scheduled = true -%}
+                  {%- break -%}
+                {%- endif -%}
+              {%- endfor -%}
+
+              {%- if talk_scheduled -%}
+                {%- break -%}
+              {%- endif -%}
+            {%- endfor -%}
+
+            {%- if talk_scheduled -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+
+          <p class="mb-0">
+            {%- include partials/list_sub_categories.html -%}
+
+            {%- include partials/get_link_types.html -%}
+            {%- if has_icon_links and site.conference.talks.hide_icons != true -%}
+              {% for link in talk.links -%}
+                {%- assign link_styleclass = "badge badge-light text-reset font-weight-normal mr-1" -%}
+                {%- include partials/get_link.html -%}
+                {%- if link_icon -%}
+                  {{- link_tag -}}
+                    <i class="fas fa-{{ link_icon }} text-secondary"></i>
+                  </a>
+                {%- endif -%}
+              {%- endfor %}
+            {%- endif %}
+          </p>
+        </li>
+      {%- endif -%}
+    {%- endfor %}
+  </ul>
+
+  <h3 class="mt-4 mb-3">
+    <span class="badge border-soft-{{ contributed_color }} bg-soft-{{ contributed_color }} d-block d-sm-inline text-wrap">
+      {{ contributed_category }}
+    </span>
+  </h3>
+
+  {% for talk in site.talks -%}
+    {%- assign is_contributed = false -%}
+    {%- for cat in talk.categories -%}
+      {%- if cat == contributed_category -%}
+        {%- assign is_contributed = true -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- if is_contributed -%}
+      <section class="pl-2 mb-4 border-soft-{{ contributed_color }}">
+        <h4 class="font-weight-light mb-2" id="{{ talk.name | slugify }}">
+          {{ talk.name }}
+        </h4>
+
+        <div class="mb-3 p-0">
+          {%- for d in site.data.program.days -%}
+            {%- include partials/get_day_hash.html -%}
+            {%- for r in d.rooms -%}
+              {%- for t in r.talks -%}
+                {%- if talk.name == t.name -%}
+                  {%- if site.conference.live -%}
+                    {%- include partials/get_talk_timestamp.html -%}
+                    <span class="live-hide" data-start="{{ timestamp_start }}" data-end="{{ timestamp_end }}">
+                  {%- endif -%}
+
+                  {%- include partials/get_time_pronoun.html -%}
+                  {%- include partials/get_talk_time.html -%}
+                  <span class="d-none d-sm-inline">
+                    {{- time_pronoun -}}
+                  </span> {% include partials/show_talk_time.html -%}
+
+                  {%- if site.conference.live -%}
+                    </span>
+                    {%- include partials/show_live_button.html -%}
+                  {%- endif -%}
+
+                  {%- assign room = site.rooms | where: 'name', r.name | first -%}
+                  <span class="d-none d-sm-inline ml-1">
+                    {{- site.data.lang[site.conference.lang].pronoun.in | default: "in" -}}
+                  </span> {% include partials/show_room.html -%}
+
+                  <span class="d-none d-sm-inline ml-1">
+                    {{- site.data.lang[site.conference.lang].pronoun.for | default: "for" -}}
+                  </span> {% include partials/show_talk_duration.html -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor -%}
+          {%- endfor -%}
+        </div>
+
+        {%- assign talk_content = talk.content | strip -%}
+        {%- unless talk_content == empty -%}
+          {{ talk.content }}
+        {%- endunless -%}
+      </section>
+    {%- endif -%}
+  {%- endfor -%}
+
+{% include partials/footer.html %}

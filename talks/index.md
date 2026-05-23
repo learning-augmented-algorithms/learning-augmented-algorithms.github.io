@@ -1,3 +1,4 @@
 ---
-layout: talk-overview
+layout: keynotes-contributed
+title: Talks
 ---

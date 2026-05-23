@@ -1,7 +1,6 @@
 ---
-name: Lunch (Rogel Ballroom)
+name: Breakfast (Rogel Ballroom)
 speakers:
-  - Organizers
 categories:
   - Meals
 hide: true

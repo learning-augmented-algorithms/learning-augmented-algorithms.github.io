@@ -71,16 +71,16 @@ conference:
       img: 'latalogo26.png'
       relative_url: /
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
-      # - name: Accepted Posters
-      #   relative_url: /talks/poster/
-      # - name: Program
-      #   relative_url: /program/
+      # - name: Call for Posters
+      #   relative_url: /cfp/
+      - name: Talks
+        relative_url: /talks/
+      - name: Schedule
+        relative_url: /program/
       - name: Register
-        absolute_url: "https://www.sigmetrics.org/sigmetrics2026"
+        absolute_url: "https://www.sigmetrics.org/sigmetrics2026/registration.html"
       # - name: Attending
-      #   absolute_url: "https://www.sigmetrics.org/sigmetrics2026/venue_travel.html"
+      #   absolute_url: "https://www.sigmetrics.org/sigmetrics2026/travel_to_ann_arbor.html"
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
@@ -111,14 +111,16 @@ conference:
     logo:
       img: 'splash_2026.png'
     links:
-      - name: Call for Posters
-        relative_url: /cfp/
+      # - name: Call for Posters
+      #   relative_url: /cfp/
       # - name: Accepted Posters
       #   relative_url: /talks/poster/
-      # - name: Program
-      #   relative_url: /program/
-      # - name: Registration
-      #   absolute_url: 'https://www.sigmetrics.org/sigmetrics2026/registration.html'
+      - name: Talks
+        relative_url: /talks/
+      - name: Schedule
+        relative_url: /program/
+      - name: Registration
+        absolute_url: 'https://www.sigmetrics.org/sigmetrics2026/registration.html'
 
   # Information boxes
   # info_bars:
@@ -153,14 +155,16 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Talk
-        color: success
-      # - name: 5 minute poster talks
-      #   color: info
-      - name: Transitions
-        color: info
-      - name: Poster Break
+      - name: Keynote
         color: primary
+      - name: Contributed Talks
+        color: info
+      - name: Breaks
+        color: warning
+      - name: Meals
+        color: secondary
+      - name: Registration
+        color: dark
       - name: Remarks
         color: warning
 
