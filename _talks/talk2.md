@@ -1,7 +1,7 @@
 ---
 name: Keynote 2
 speakers:
-  - Maria-Florina Balcan
+  - Ali Vakilian
 categories:
   - Keynote
 hide: true

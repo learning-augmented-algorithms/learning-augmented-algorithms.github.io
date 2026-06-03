@@ -1,5 +1,5 @@
 ---
-name: Contributed talks I (2 presentations)
+name: Contributed talks I (3 presentations)
 speakers:
   - Contributed Talk Authors
 categories:
@@ -14,3 +14,7 @@ Helia Karisani (UMass Amherst), Mohammadreza Daneshvaramoli (UMass Amherst), Ada
 #### Value of Learning in Online Decision Making: When does being Bayesian help?
 
 Alireza AmaniHamedani (London Business School), Ali Aouad (MIT), Senem Işık (Stanford University), Amin Saberi (Stanford University)
+
+#### Dynamic Scheduling with Expert Predictions
+
+Ahan Mishra (Cornell University)
