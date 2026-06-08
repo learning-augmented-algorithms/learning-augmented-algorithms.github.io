@@ -20,7 +20,7 @@ days:
       - name: Coffee break (Idea Hub)
         time_start: '10:00'
         time_end: '10:30'
-      - name: Keynote 2
+      - name: Beating Classical Streaming Barriers with Noisy Predictions
         time_start: '10:30'
         time_end: '11:15'
       - name: Contributed talks I (3 presentations)

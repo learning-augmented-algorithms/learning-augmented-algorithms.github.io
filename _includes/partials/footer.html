@@ -8,6 +8,20 @@
     {%- include partials/modal_live.html -%}
   {%- endif -%}
 
+  {%- if page.collection == "talks" or page.math -%}
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      }
+    };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+  {%- endif -%}
+
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
   <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
 
